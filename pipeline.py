@@ -85,7 +85,7 @@ def decorate(items: list, cfg: dict):
             continue
         hits = match_keywords(text, cfg.get("whitelist", []))
         it.extra["whitelist_hits"] = hits
-        it.extra["pinned"] = bool(hits)
+        it.extra["pinned"] = bool(hits) or bool(it.extra.get("watch_pinned"))
         it.extra["single_html"] = is_single_html(it, cfg)
         it.extra["categories"] = classify(it, cfg)
         threshold = min_stars.get(it.source, 0) or 0
