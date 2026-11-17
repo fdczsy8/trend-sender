@@ -6,11 +6,14 @@
 """
 from __future__ import annotations
 
+import datetime
 import html
+import json
 import os
 import re
 import time
 from dataclasses import dataclass, field
+from pathlib import Path
 from typing import Optional
 
 import requests
@@ -26,6 +29,7 @@ UA = {
 
 RETRIES = int(os.environ.get("FETCH_RETRIES", "3"))
 TIMEOUT = int(os.environ.get("FETCH_TIMEOUT", "20"))
+BASE_DIR = Path(__file__).resolve().parent
 
 
 @dataclass
@@ -37,6 +41,15 @@ class Item:
     heat: str = ""                      # 展示用热度文本，如 "⭐ 1,234（今日+56）"
     stars: Optional[int] = None         # 可排序/过滤的数值热度，None 表示无此指标
     extra: dict = field(default_factory=dict)
+
+
+def gh_headers() -> dict:
+    """GitHub API 请求头；Actions 里注入 GITHUB_TOKEN 可提升限流额度。"""
+    h = {"Accept": "application/vnd.github+json"}
+    token = (os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN") or "").strip()
+    if token:
+        h["Authorization"] = "Bearer " + token
+    return h
 
 
 def http_request(url: str, method: str = "GET", **kwargs) -> requests.Response:
@@ -66,7 +79,7 @@ def _to_int(text) -> Optional[int]:
         return None
 
 
-def clean_text(text: str) -> str:
+def clean_text(text) -> str:
     """清理空白/控制字符/HTML实体，压成单行。"""
     if not text:
         return ""
@@ -81,7 +94,7 @@ def _soup(resp: requests.Response):
     return BeautifulSoup(resp.text, "html.parser")
 
 
-# ---------------------------------------------------------------- GitHub
+# ---------------------------------------------------------------- GitHub Trending
 def fetch_github_trending(limit: int) -> list:
     url = "https://github.com/trending?since=daily"
     soup = _soup(http_request(url))
@@ -121,6 +134,172 @@ def fetch_github_trending(limit: int) -> list:
     if not items:
         raise RuntimeError("GitHub Trending 解析结果为空，页面结构可能已变化")
     return items
+
+
+# ---------------------------------------------------------------- GitHub 单HTML精选
+def fetch_github_single_html(limit: int) -> list:
+    """GitHub 官方搜索 API：定向搜索可套壳打包的纯 HTML 项目。
+
+    分组查询：热门HTML / 单文件 / 播放器 / 黄历日历 / webview，
+    全部标注【单HTML】，合并去重后按 star 排序。
+    """
+    since = (datetime.date.today() - datetime.timedelta(days=45)).isoformat()
+    # stars 上限 5000：排除"主语言恰好是 HTML"的文档/awesome 巨仓；size 限小仓库
+    queries = [
+        f"language:html stars:20..5000 pushed:>{since} size:1..5000",
+        "单文件 language:html stars:<5000",
+        '"single html" language:html stars:10..5000',
+        '"single file" html stars:10..5000',
+        "音乐播放器 language:html stars:<5000",
+        "播放器 language:html stars:10..5000",
+        "黄历 language:html stars:<5000",
+        "日历 language:html stars:10..5000",
+        "webview language:html stars:10..5000",
+    ]
+    items, seen, errors = [], set(), 0
+    for q in queries:
+        try:
+            data = http_request(
+                "https://api.github.com/search/repositories",
+                params={"q": q, "sort": "stars", "order": "desc", "per_page": min(limit, 30)},
+                headers=gh_headers(),
+            ).json()
+        except RuntimeError:
+            errors += 1
+            time.sleep(3)
+            continue
+        for r in data.get("items") or []:
+            full = r.get("full_name") or ""
+            if not full or full in seen:
+                continue
+            seen.add(full)
+            stars = r.get("stargazers_count") or 0
+            items.append(Item(
+                source="ghhtml",
+                title=full,
+                url=r.get("html_url") or f"https://github.com/{full}",
+                desc=clean_text(r.get("description") or ""),
+                heat=f"⭐ {stars:,}",
+                stars=stars,
+                extra={"language": "HTML", "single_html": True},
+            ))
+        time.sleep(3)  # 搜索接口限流严格，主动放慢
+    if not items:
+        if errors:
+            raise RuntimeError(f"GitHub 搜索 API 查询全部失败（{errors} 组，限流或网络）")
+        raise RuntimeError("GitHub 单HTML精选搜索返回为空")
+    items.sort(key=lambda it: -(it.stars or 0))
+    return items[:limit]
+
+
+# ---------------------------------------------------------------- 关注名单
+def fetch_watch(limit: int) -> list:
+    """关注名单：抓取 config.json watch_repos / watch_users 近 3 天的新版本与新提交。
+
+    未配置名单时返回空列表（不算失败）。所有条目带 watch_pinned 标记，主流程置顶。
+    """
+    try:
+        cfg = json.loads((BASE_DIR / "config.json").read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        cfg = {}
+    repos = [str(x).strip() for x in cfg.get("watch_repos", []) if str(x).strip()]
+    users = [str(x).strip() for x in cfg.get("watch_users", []) if str(x).strip()]
+    if not repos and not users:
+        return []
+
+    since = (datetime.datetime.now(datetime.timezone.utc)
+             - datetime.timedelta(days=3)).strftime("%Y-%m-%dT%H:%M:%SZ")
+    items, seen = [], set()
+
+    def add(it: Item):
+        key = it.url.lower()
+        if it.url and key not in seen:
+            seen.add(key)
+            items.append(it)
+
+    for repo in repos[:20]:
+        try:
+            rels = http_request(
+                f"https://api.github.com/repos/{repo}/releases?per_page=5",
+                headers=gh_headers()).json()
+        except RuntimeError:
+            rels = []
+        for r in rels if isinstance(rels, list) else []:
+            if r.get("draft") or not r.get("published_at") or r["published_at"] < since:
+                continue
+            add(Item(
+                source="watch",
+                title=f"{repo} 发布 {r.get('tag_name', '')}".strip(),
+                url=r.get("html_url") or f"https://github.com/{repo}/releases",
+                desc=clean_text(r.get("body") or "")[:150],
+                heat="👀 关注更新 · 新版本",
+                extra={"watch_pinned": True},
+            ))
+        try:
+            commits = http_request(
+                f"https://api.github.com/repos/{repo}/commits?since={since}&per_page=10",
+                headers=gh_headers()).json()
+        except RuntimeError:
+            commits = []
+        for c in commits if isinstance(commits, list) else []:
+            info = c.get("commit") or {}
+            msg = clean_text((info.get("message") or "").splitlines()[0]) if info.get("message") else ""
+            url = c.get("html_url") or ""
+            if not msg or not url:
+                continue
+            author = ((info.get("author") or {}).get("name")
+                      or (c.get("author") or {}).get("login") or "")
+            add(Item(
+                source="watch",
+                title=f"{repo}: {msg}",
+                url=url,
+                desc=f"提交者 {author}",
+                heat="👀 关注更新",
+                extra={"watch_pinned": True},
+            ))
+        time.sleep(1)
+
+    for user in users[:20]:
+        try:
+            events = http_request(
+                f"https://api.github.com/users/{user}/events/public?per_page=60",
+                headers=gh_headers()).json()
+        except RuntimeError:
+            events = []
+        for ev in events if isinstance(events, list) else []:
+            if (ev.get("created_at") or "") < since:
+                continue
+            et = ev.get("type")
+            repo_name = (ev.get("repo") or {}).get("name") or ""
+            payload = ev.get("payload") or {}
+            if et == "PushEvent" and repo_name:
+                cs = payload.get("commits") or []
+                head = payload.get("head") or ""
+                first = clean_text((cs[0].get("message") or "").splitlines()[0]) if cs else ""
+                url = (f"https://github.com/{repo_name}/commit/{head}" if head
+                       else f"https://github.com/{repo_name}")
+                add(Item(
+                    source="watch",
+                    title=f"{user} 更新 {repo_name}（{len(cs)} 个提交）" + (f"：{first}" if first else ""),
+                    url=url,
+                    desc="关注的人推送了新代码",
+                    heat="👀 关注更新",
+                    extra={"watch_pinned": True},
+                ))
+            elif et == "ReleaseEvent" and repo_name:
+                r = payload.get("release") or {}
+                if not r.get("draft"):
+                    add(Item(
+                        source="watch",
+                        title=f"{user} 发布 {repo_name} {r.get('tag_name', '')}".strip(),
+                        url=r.get("html_url") or f"https://github.com/{repo_name}/releases",
+                        desc=clean_text(r.get("body") or "")[:150],
+                        heat="👀 关注更新 · 新版本",
+                        extra={"watch_pinned": True},
+                    ))
+        time.sleep(1)
+
+    return items[:limit]
 
 
 # ---------------------------------------------------------------- Gitee
@@ -266,7 +445,8 @@ def fetch_modelscope(limit: int) -> list:
         desc = clean_text(m.get("Description") or "")
         if not desc:
             tasks = m.get("Tasks") or []
-            task_name = clean_text((tasks[0] or {}).get("ChineseName") or (tasks[0] or {}).get("Name") or "") if tasks else ""
+            task_name = clean_text((tasks[0] or {}).get("ChineseName")
+                                   or (tasks[0] or {}).get("Name") or "") if tasks else ""
             desc = " · ".join(x for x in (task_name, clean_text(m.get("ChineseName") or "")) if x)
         items.append(Item(
             source="modelscope",
@@ -369,7 +549,9 @@ def fetch_v2ex(limit: int) -> list:
 
 
 SOURCE_REGISTRY = [
+    ("watch", "👀 关注更新", fetch_watch),
     ("github", "GitHub Trending", fetch_github_trending),
+    ("ghhtml", "GitHub 单HTML精选", fetch_github_single_html),
     ("gitee", "Gitee 热榜", fetch_gitee_hot),
     ("huggingface", "HuggingFace 模型+Space", fetch_huggingface),
     ("modelscope", "魔搭 ModelScope", fetch_modelscope),
@@ -377,3 +559,4 @@ SOURCE_REGISTRY = [
     ("juejin", "掘金热榜", fetch_juejin),
     ("v2ex", "V2EX 热议", fetch_v2ex),
 ]
+
