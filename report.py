@@ -182,3 +182,4 @@ def build_subject(stats: dict, date_str: str) -> str:
         parts.append(f"⚠{len(fails)}源失败")
     return " ".join(parts)
 
+
