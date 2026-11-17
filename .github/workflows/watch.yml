@@ -1,0 +1,66 @@
+name: 关注更新哨兵
+
+on:
+  schedule:
+    # 每 2 小时检查一次关注名单（北京时间全天 00 分/12 分错峰由 cron 均匀分布）
+    - cron: "0 */2 * * *"
+  workflow_dispatch:
+    inputs:
+      force_send:
+        description: "无新内容时也强制发送"
+        type: choice
+        default: "no"
+        options: ["no", "yes"]
+
+# 与日报共用 concurrency 组，避免两个工作流同时回写 cache/history.json 冲突
+permissions:
+  contents: write
+
+concurrency:
+  group: digest
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    env:
+      SMTP_HOST: smtp.qq.com
+      SMTP_PORT: "465"
+      SMTP_USER: ${{ secrets.SMTP_USER }}
+      SMTP_PASS: ${{ secrets.SMTP_PASS }}
+      MAIL_TO: ${{ secrets.MAIL_TO }}
+      MAIL_FROM: ${{ secrets.MAIL_FROM }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      ONLY_SOURCES: watch
+      SKIP_IF_EMPTY: ${{ github.event.inputs.force_send == 'yes' && 'false' || 'true' }}
+      MODE: ${{ vars.MODE || 'full' }}
+
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 检查关注更新
+        run: python main.py
+
+      - name: 回写去重缓存
+        run: |
+          git config user.name "digest-bot"
+          git config user.email "digest-bot@users.noreply.github.com"
+          git add cache/history.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: 更新去重缓存 $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          else
+            echo "缓存无变化，跳过提交"
+          fi
