@@ -163,7 +163,7 @@ def render_markdown(sections, stats: dict, mode: str, date_str: str) -> str:
                 marks += "【单HTML】"
             tags = "".join(f" `{t}`" for t in it.extra.get("categories", []))
             heat = f" — {it.heat}" if it.heat else ""
-            lines.append(f"- {marks}[{cut(it.title, 100)}]({it.url}){标签}{heat}")
+            lines.append(f"- {marks}[{cut(it.title, 100)}]({it.url}){tags}{heat}")
             if mode == "full" and it.desc:
                 lines.append(f"  - {cut(it.desc, max_len)}")
         lines.append("")
@@ -181,6 +181,3 @@ def build_subject(stats: dict, date_str: str) -> str:
     if fails:
         parts.append(f"⚠{len(fails)}源失败")
     return " ".join(parts)
-
-
-
