@@ -1,3 +1,944 @@
 {
- "items": {}
+ "items": {
+  "https://www.modelscope.cn/models/indexteam/indextts-2": {
+   "date": "2026-11-17",
+   "title": "IndexTeam/IndexTTS-2"
+  },
+  "title:indexteam/indextts-2": {
+   "date": "2026-11-17",
+   "title": "IndexTeam/IndexTTS-2"
+  },
+  "https://huggingface.co/zyphra/zonos3-mini": {
+   "date": "2026-11-17",
+   "title": "Zyphra/ZONOS3-Mini"
+  },
+  "title:zyphra/zonos3-mini": {
+   "date": "2026-11-17",
+   "title": "Zyphra/ZONOS3-Mini"
+  },
+  "https://gitee.com/rrqm_home/tsmq": {
+   "date": "2026-11-17",
+   "title": "若汝棋茗/TSMQ"
+  },
+  "title:若汝棋茗/tsmq": {
+   "date": "2026-11-17",
+   "title": "若汝棋茗/TSMQ"
+  },
+  "https://juejin.cn/post/7707644445542907913": {
+   "date": "2026-11-17",
+   "title": "前端包管理工具：npm、Yarn、pnpm 快速入门"
+  },
+  "title:前端包管理工具：npm、yarn、pnpm快速入门": {
+   "date": "2026-11-17",
+   "title": "前端包管理工具：npm、Yarn、pnpm 快速入门"
+  },
+  "https://juejin.cn/post/7708682938188578854": {
+   "date": "2026-11-17",
+   "title": "用了这 Skill，前端兄弟都觉得好"
+  },
+  "title:用了这skill，前端兄弟都觉得好": {
+   "date": "2026-11-17",
+   "title": "用了这 Skill，前端兄弟都觉得好"
+  },
+  "https://github.com/sveltejs/svelte": {
+   "date": "2026-11-17",
+   "title": "sveltejs/svelte"
+  },
+  "title:sveltejs/svelte": {
+   "date": "2026-11-17",
+   "title": "sveltejs/svelte"
+  },
+  "https://github.com/mvanhorn/last30days-skill": {
+   "date": "2026-11-17",
+   "title": "mvanhorn/last30days-skill"
+  },
+  "title:mvanhorn/last30days-skill": {
+   "date": "2026-11-17",
+   "title": "mvanhorn/last30days-skill"
+  },
+  "https://github.com/chromedevtools/chrome-devtools-mcp": {
+   "date": "2026-11-17",
+   "title": "ChromeDevTools/chrome-devtools-mcp"
+  },
+  "title:chromedevtools/chrome-devtools-mcp": {
+   "date": "2026-11-17",
+   "title": "ChromeDevTools/chrome-devtools-mcp"
+  },
+  "https://github.com/alibaba/open-code-review": {
+   "date": "2026-11-17",
+   "title": "alibaba/open-code-review"
+  },
+  "title:alibaba/open-code-review": {
+   "date": "2026-11-17",
+   "title": "alibaba/open-code-review"
+  },
+  "https://github.com/dream-num/univer": {
+   "date": "2026-11-17",
+   "title": "dream-num/univer"
+  },
+  "title:dream-num/univer": {
+   "date": "2026-11-17",
+   "title": "dream-num/univer"
+  },
+  "https://huggingface.co/qwen/qwen3.8-27b": {
+   "date": "2026-11-17",
+   "title": "Qwen/Qwen3.8-27B"
+  },
+  "title:qwen/qwen3.8-27b": {
+   "date": "2026-11-17",
+   "title": "Qwen/Qwen3.8-27B"
+  },
+  "https://github.com/ag-ui-protocol/ag-ui": {
+   "date": "2026-11-17",
+   "title": "ag-ui-protocol/ag-ui"
+  },
+  "title:ag-ui-protocol/ag-ui": {
+   "date": "2026-11-17",
+   "title": "ag-ui-protocol/ag-ui"
+  },
+  "https://github.com/backnotprop/plannotator": {
+   "date": "2026-11-17",
+   "title": "backnotprop/plannotator"
+  },
+  "title:backnotprop/plannotator": {
+   "date": "2026-11-17",
+   "title": "backnotprop/plannotator"
+  },
+  "https://huggingface.co/lightricks/ltx-2.5": {
+   "date": "2026-11-17",
+   "title": "Lightricks/LTX-2.5"
+  },
+  "title:lightricks/ltx-2.5": {
+   "date": "2026-11-17",
+   "title": "Lightricks/LTX-2.5"
+  },
+  "https://github.com/google-labs-code/stitch-skills": {
+   "date": "2026-11-17",
+   "title": "google-labs-code/stitch-skills"
+  },
+  "title:google-labs-code/stitch-skills": {
+   "date": "2026-11-17",
+   "title": "google-labs-code/stitch-skills"
+  },
+  "https://huggingface.co/xtools-at/deepseek-v4-pro-qwen3.5-9b-uncensored-heretic": {
+   "date": "2026-11-17",
+   "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic"
+  },
+  "title:xtools-at/deepseek-v4-pro-qwen3.5-9b-uncensored-heretic": {
+   "date": "2026-11-17",
+   "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic"
+  },
+  "https://github.com/getarcaneapp/arcane": {
+   "date": "2026-11-17",
+   "title": "getarcaneapp/arcane"
+  },
+  "title:getarcaneapp/arcane": {
+   "date": "2026-11-17",
+   "title": "getarcaneapp/arcane"
+  },
+  "https://github.com/deanchensj/jiangshan-map": {
+   "date": "2026-11-17",
+   "title": "DeanChensj/jiangshan-map"
+  },
+  "title:deanchensj/jiangshan-map": {
+   "date": "2026-11-17",
+   "title": "DeanChensj/jiangshan-map"
+  },
+  "https://github.com/kajisho5/ffmpeg-skill": {
+   "date": "2026-11-17",
+   "title": "kajisho5/ffmpeg-skill"
+  },
+  "title:kajisho5/ffmpeg-skill": {
+   "date": "2026-11-17",
+   "title": "kajisho5/ffmpeg-skill"
+  },
+  "https://huggingface.co/facebook/sam3": {
+   "date": "2026-11-17",
+   "title": "facebook/sam3"
+  },
+  "title:facebook/sam3": {
+   "date": "2026-11-17",
+   "title": "facebook/sam3"
+  },
+  "https://github.com/tradermonty/claude-trading-skills": {
+   "date": "2026-11-17",
+   "title": "tradermonty/claude-trading-skills"
+  },
+  "title:tradermonty/claude-trading-skills": {
+   "date": "2026-11-17",
+   "title": "tradermonty/claude-trading-skills"
+  },
+  "https://huggingface.co/unsloth/qwen3.8-27b-gguf": {
+   "date": "2026-11-17",
+   "title": "unsloth/Qwen3.8-27B-GGUF"
+  },
+  "title:unsloth/qwen3.8-27b-gguf": {
+   "date": "2026-11-17",
+   "title": "unsloth/Qwen3.8-27B-GGUF"
+  },
+  "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy": {
+   "date": "2026-11-17",
+   "title": "black-forest-labs/flux-3-image-klein-comfy"
+  },
+  "title:black-forest-labs/flux-3-image-klein-comfy": {
+   "date": "2026-11-17",
+   "title": "black-forest-labs/flux-3-image-klein-comfy"
+  },
+  "https://huggingface.co/davidau/qwen3.8-27b-turbo-fable-cold-fusion-735-882-heretic-uncensored-neo-coder-max-mtp-gguf": {
+   "date": "2026-11-17",
+   "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF"
+  },
+  "title:davidau/qwen3.8-27b-turbo-fable-cold-fusion-735-882-heretic-uncensored-neo-coder-max-mtp-gguf": {
+   "date": "2026-11-17",
+   "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF"
+  },
+  "https://github.com/nvidia/skillevaluator": {
+   "date": "2026-11-17",
+   "title": "NVIDIA/SkillEvaluator"
+  },
+  "title:nvidia/skillevaluator": {
+   "date": "2026-11-17",
+   "title": "NVIDIA/SkillEvaluator"
+  },
+  "https://www.modelscope.cn/models/tongyi-mai/z-image-turbo": {
+   "date": "2026-11-17",
+   "title": "Tongyi-MAI/Z-Image-Turbo"
+  },
+  "title:tongyi-mai/z-image-turbo": {
+   "date": "2026-11-17",
+   "title": "Tongyi-MAI/Z-Image-Turbo"
+  },
+  "https://huggingface.co/speridlabs/idol": {
+   "date": "2026-11-17",
+   "title": "speridlabs/idol"
+  },
+  "title:speridlabs/idol": {
+   "date": "2026-11-17",
+   "title": "speridlabs/idol"
+  },
+  "https://www.modelscope.cn/models/minimax/minimax-h3": {
+   "date": "2026-11-17",
+   "title": "MiniMax/MiniMax-H3"
+  },
+  "title:minimax/minimax-h3": {
+   "date": "2026-11-17",
+   "title": "MiniMax/MiniMax-H3"
+  },
+  "https://huggingface.co/moonshotai/kimi-k3.1-pro": {
+   "date": "2026-11-17",
+   "title": "moonshotai/Kimi-K3.1-Pro"
+  },
+  "title:moonshotai/kimi-k3.1-pro": {
+   "date": "2026-11-17",
+   "title": "moonshotai/Kimi-K3.1-Pro"
+  },
+  "https://www.modelscope.cn/models/qwen/qwen3.8-27b": {
+   "date": "2026-11-17",
+   "title": "Qwen/Qwen3.8-27B"
+  },
+  "https://huggingface.co/spaces/kulkas2pintu/wan777": {
+   "date": "2026-11-17",
+   "title": "kulkas2pintu/wan777"
+  },
+  "title:kulkas2pintu/wan777": {
+   "date": "2026-11-17",
+   "title": "kulkas2pintu/wan777"
+  },
+  "https://www.modelscope.cn/models/qwen/qwen3.8-flash-next": {
+   "date": "2026-11-17",
+   "title": "Qwen/Qwen3.8-Flash-Next"
+  },
+  "title:qwen/qwen3.8-flash-next": {
+   "date": "2026-11-17",
+   "title": "Qwen/Qwen3.8-Flash-Next"
+  },
+  "https://github.com/google-research/paper-orchestra": {
+   "date": "2026-11-17",
+   "title": "google-research/paper-orchestra"
+  },
+  "title:google-research/paper-orchestra": {
+   "date": "2026-11-17",
+   "title": "google-research/paper-orchestra"
+  },
+  "https://www.modelscope.cn/models/qwen/qwen-image-2.1": {
+   "date": "2026-11-17",
+   "title": "Qwen/Qwen-Image-2.1"
+  },
+  "title:qwen/qwen-image-2.1": {
+   "date": "2026-11-17",
+   "title": "Qwen/Qwen-Image-2.1"
+  },
+  "https://www.modelscope.cn/models/deepseek-ai/deepseek-r1": {
+   "date": "2026-11-17",
+   "title": "deepseek-ai/DeepSeek-R1"
+  },
+  "title:deepseek-ai/deepseek-r1": {
+   "date": "2026-11-17",
+   "title": "deepseek-ai/DeepSeek-R1"
+  },
+  "https://huggingface.co/minimaxai/minimax-h3-image": {
+   "date": "2026-11-17",
+   "title": "MiniMaxAI/MiniMax-H3-Image"
+  },
+  "title:minimaxai/minimax-h3-image": {
+   "date": "2026-11-17",
+   "title": "MiniMaxAI/minimax-h3-image"
+  },
+  "https://www.modelscope.cn/models/qwen/qwen3-coder-480b-a35b-instruct": {
+   "date": "2026-11-17",
+   "title": "Qwen/Qwen3-Coder-480B-A35B-Instruct"
+  },
+  "title:qwen/qwen3-coder-480b-a35b-instruct": {
+   "date": "2026-11-17",
+   "title": "Qwen/Qwen3-Coder-480B-A35B-Instruct"
+  },
+  "https://www.modelscope.cn/models/deepseek-ai/deepseek-v4.1-flash-1017": {
+   "date": "2026-11-17",
+   "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017"
+  },
+  "title:deepseek-ai/deepseek-v4.1-flash-1017": {
+   "date": "2026-11-17",
+   "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017"
+  },
+  "https://huggingface.co/spaces/hugging-apps/bfs-best-face-swap": {
+   "date": "2026-11-17",
+   "title": "hugging-apps/bfs-best-face-swap"
+  },
+  "title:hugging-apps/bfs-best-face-swap": {
+   "date": "2026-11-17",
+   "title": "hugging-apps/bfs-best-face-swap"
+  },
+  "https://huggingface.co/spaces/multimodalart/jev-decision-index": {
+   "date": "2026-11-17",
+   "title": "multimodalart/jev-decision-index"
+  },
+  "title:multimodalart/jev-decision-index": {
+   "date": "2026-11-17",
+   "title": "multimodalart/jev-decision-index"
+  },
+  "https://www.modelscope.cn/models/zhipuai/chatglm3-6b": {
+   "date": "2026-11-17",
+   "title": "ZhipuAI/chatglm3-6b"
+  },
+  "title:zhipuai/chatglm3-6b": {
+   "date": "2026-11-17",
+   "title": "ZhipuAI/chatglm3-6b"
+  },
+  "https://www.modelscope.cn/models/qwen/qwen3.8-2.4t-a95b": {
+   "date": "2026-11-17",
+   "title": "Qwen/Qwen3.8-2.4T-A95B"
+  },
+  "title:qwen/qwen3.8-2.4t-a95b": {
+   "date": "2026-11-17",
+   "title": "Qwen/Qwen3.8-2.4T-A95B"
+  },
+  "https://www.modelscope.cn/models/iic/cosyvoice2-0.5b": {
+   "date": "2026-11-17",
+   "title": "iic/CosyVoice2-0.5B"
+  },
+  "title:iic/cosyvoice2-0.5b": {
+   "date": "2026-11-17",
+   "title": "iic/CosyVoice2-0.5B"
+  },
+  "https://www.modelscope.cn/models/deepseek-ai/deepseek-v4.1-flash": {
+   "date": "2026-11-17",
+   "title": "deepseek-ai/DeepSeek-V4.1-Flash"
+  },
+  "title:deepseek-ai/deepseek-v4.1-flash": {
+   "date": "2026-11-17",
+   "title": "deepseek-ai/DeepSeek-V4.1-Flash"
+  },
+  "https://www.modelscope.cn/models/qwen/qwen-7b-chat": {
+   "date": "2026-11-17",
+   "title": "Qwen/Qwen-7B-Chat"
+  },
+  "title:qwen/qwen-7b-chat": {
+   "date": "2026-11-17",
+   "title": "Qwen/Qwen-7B-Chat"
+  },
+  "https://www.modelscope.cn/models/iic/sensevoicesmall": {
+   "date": "2026-11-17",
+   "title": "iic/SenseVoiceSmall"
+  },
+  "title:iic/sensevoicesmall": {
+   "date": "2026-11-17",
+   "title": "iic/SenseVoiceSmall"
+  },
+  "https://www.modelscope.cn/models/comfy-org/minimax-h3": {
+   "date": "2026-11-17",
+   "title": "Comfy-Org/MiniMax-H3"
+  },
+  "title:comfy-org/minimax-h3": {
+   "date": "2026-11-17",
+   "title": "Comfy-Org/MiniMax-H3"
+  },
+  "https://www.modelscope.cn/models/qwen/qwen-image-2512": {
+   "date": "2026-11-17",
+   "title": "Qwen/Qwen-Image-2512"
+  },
+  "title:qwen/qwen-image-2512": {
+   "date": "2026-11-17",
+   "title": "Qwen/Qwen-Image-2512"
+  },
+  "https://huggingface.co/spaces/huggingface/moe-blogpost": {
+   "date": "2026-11-17",
+   "title": "huggingface/moe-blogpost"
+  },
+  "title:huggingface/moe-blogpost": {
+   "date": "2026-11-17",
+   "title": "huggingface/moe-blogpost"
+  },
+  "https://www.modelscope.cn/models/iic/text-to-video-synthesis": {
+   "date": "2026-11-17",
+   "title": "iic/text-to-video-synthesis"
+  },
+  "title:iic/text-to-video-synthesis": {
+   "date": "2026-11-17",
+   "title": "iic/text-to-video-synthesis"
+  },
+  "https://www.modelscope.cn/models/qwen/qwq-32b": {
+   "date": "2026-11-17",
+   "title": "Qwen/QwQ-32B"
+  },
+  "title:qwen/qwq-32b": {
+   "date": "2026-11-17",
+   "title": "Qwen/QwQ-32B"
+  },
+  "https://www.modelscope.cn/models/mailand/majicflus_v1": {
+   "date": "2026-11-17",
+   "title": "MAILAND/majicflus_v1"
+  },
+  "title:mailand/majicflus_v1": {
+   "date": "2026-11-17",
+   "title": "MAILAND/majicflus_v1"
+  },
+  "https://www.modelscope.cn/models/qwen/qwen-image-edit-2511": {
+   "date": "2026-11-17",
+   "title": "Qwen/Qwen-Image-Edit-2511"
+  },
+  "title:qwen/qwen-image-edit-2511": {
+   "date": "2026-11-17",
+   "title": "Qwen/Qwen-Image-Edit-2511"
+  },
+  "https://huggingface.co/nousresearch/arete-27b": {
+   "date": "2026-11-17",
+   "title": "NousResearch/Arete-27B"
+  },
+  "title:nousresearch/arete-27b": {
+   "date": "2026-11-17",
+   "title": "NousResearch/Arete-27B"
+  },
+  "https://www.modelscope.cn/models/iic/speech_paraformer-large-vad-punc_asr_nat-zh-cn-16k-common-vocab8404-pytorch": {
+   "date": "2026-11-17",
+   "title": "iic/speech_paraformer-large-vad-punc_asr_nat-zh-cn-16k-common-vocab8404-pytorch"
+  },
+  "title:iic/speech_paraformer-large-vad-punc_asr_nat-zh-cn-16k-common-vocab8404-pytorch": {
+   "date": "2026-11-17",
+   "title": "iic/speech_paraformer-large-vad-punc_asr_nat-zh-cn-16k-common-vocab8404-pytorch"
+  },
+  "https://www.modelscope.cn/models/deepseek-ai/deepseek-v4-pro": {
+   "date": "2026-11-17",
+   "title": "deepseek-ai/DeepSeek-V4-Pro"
+  },
+  "title:deepseek-ai/deepseek-v4-pro": {
+   "date": "2026-11-17",
+   "title": "deepseek-ai/DeepSeek-V4-Pro"
+  },
+  "https://www.modelscope.cn/models/deepseek-ai/deepseek-v4-flash-0731": {
+   "date": "2026-11-17",
+   "title": "deepseek-ai/DeepSeek-V4-Flash-0731"
+  },
+  "title:deepseek-ai/deepseek-v4-flash-0731": {
+   "date": "2026-11-17",
+   "title": "deepseek-ai/DeepSeek-V4-Flash-0731"
+  },
+  "https://www.modelscope.cn/models/iic/speech_paraformer-large_asr_nat-zh-cn-16k-common-vocab8404-pytorch": {
+   "date": "2026-11-17",
+   "title": "iic/speech_paraformer-large_asr_nat-zh-cn-16k-common-vocab8404-pytorch"
+  },
+  "title:iic/speech_paraformer-large_asr_nat-zh-cn-16k-common-vocab8404-pytorch": {
+   "date": "2026-11-17",
+   "title": "iic/speech_paraformer-large_asr_nat-zh-cn-16k-common-vocab8404-pytorch"
+  },
+  "https://www.modelscope.cn/models/tongyi-mai/z-image": {
+   "date": "2026-11-17",
+   "title": "Tongyi-MAI/Z-Image"
+  },
+  "title:tongyi-mai/z-image": {
+   "date": "2026-11-17",
+   "title": "Tongyi-MAI/Z-Image"
+  },
+  "https://www.modelscope.cn/models/qwen/qwen2.5-7b-instruct": {
+   "date": "2026-11-17",
+   "title": "Qwen/Qwen2.5-7B-Instruct"
+  },
+  "title:qwen/qwen2.5-7b-instruct": {
+   "date": "2026-11-17",
+   "title": "Qwen/Qwen2.5-7B-Instruct"
+  },
+  "https://www.modelscope.cn/models/krea/krea-2-turbo": {
+   "date": "2026-11-17",
+   "title": "krea/Krea-2-Turbo"
+  },
+  "title:krea/krea-2-turbo": {
+   "date": "2026-11-17",
+   "title": "krea/Krea-2-Turbo"
+  },
+  "https://www.modelscope.cn/models/qwen/qwen2.5-omni-7b": {
+   "date": "2026-11-17",
+   "title": "Qwen/Qwen2.5-Omni-7B"
+  },
+  "title:qwen/qwen2.5-omni-7b": {
+   "date": "2026-11-17",
+   "title": "Qwen/Qwen2.5-Omni-7B"
+  },
+  "https://www.modelscope.cn/models/qwen/qwen-image": {
+   "date": "2026-11-17",
+   "title": "Qwen/Qwen-Image"
+  },
+  "title:qwen/qwen-image": {
+   "date": "2026-11-17",
+   "title": "Qwen/Qwen-Image"
+  },
+  "https://huggingface.co/comfy-org/minimax-h3-image": {
+   "date": "2026-11-17",
+   "title": "Comfy-Org/MiniMax-H3-Image"
+  },
+  "title:comfy-org/minimax-h3-image": {
+   "date": "2026-11-17",
+   "title": "Comfy-Org/MiniMax-H3-Image"
+  },
+  "https://huggingface.co/higurashi-ai/haru-4b": {
+   "date": "2026-11-17",
+   "title": "higurashi-ai/Haru-4B"
+  },
+  "title:higurashi-ai/haru-4b": {
+   "date": "2026-11-17",
+   "title": "higurashi-ai/Haru-4B"
+  },
+  "https://huggingface.co/spaces/ast-1320/qwen-2511-plus-flux.2-klein": {
+   "date": "2026-11-17",
+   "title": "AST-1320/Qwen-2511-Plus-Flux.2-klein"
+  },
+  "title:ast-1320/qwen-2511-plus-flux.2-klein": {
+   "date": "2026-11-17",
+   "title": "AST-1320/Qwen-2511-Plus-Flux.2-klein"
+  },
+  "https://huggingface.co/thinkingmachines/inkling-2-small": {
+   "date": "2026-11-17",
+   "title": "thinkingmachines/Inkling-2-Small"
+  },
+  "title:thinkingmachines/inkling-2-small": {
+   "date": "2026-11-17",
+   "title": "thinkingmachines/Inkling-2-Small"
+  },
+  "https://huggingface.co/spaces/jcishere/wan2-2-i2v-v3": {
+   "date": "2026-11-17",
+   "title": "JCisHERE/wan2-2-i2v-v3"
+  },
+  "title:jcishere/wan2-2-i2v-v3": {
+   "date": "2026-11-17",
+   "title": "JCisHERE/wan2-2-i2v-v3"
+  },
+  "https://huggingface.co/spaces/joelniklaus/harness-leaderboard": {
+   "date": "2026-11-17",
+   "title": "joelniklaus/harness-leaderboard"
+  },
+  "title:joelniklaus/harness-leaderboard": {
+   "date": "2026-11-17",
+   "title": "joelniklaus/harness-leaderboard"
+  },
+  "https://huggingface.co/spaces/speridlabs/idol": {
+   "date": "2026-11-17",
+   "title": "speridlabs/idol"
+  },
+  "https://huggingface.co/spaces/rdata92/ltx-2.3-10eros": {
+   "date": "2026-11-17",
+   "title": "rdata92/LTX-2.3-10Eros"
+  },
+  "title:rdata92/ltx-2.3-10eros": {
+   "date": "2026-11-17",
+   "title": "rdata92/LTX-2.3-10Eros"
+  },
+  "https://huggingface.co/spaces/prunaai/p-h3-image": {
+   "date": "2026-11-17",
+   "title": "PrunaAI/P-H3-Image"
+  },
+  "title:prunaai/p-h3-image": {
+   "date": "2026-11-17",
+   "title": "PrunaAI/P-H3-Image"
+  },
+  "https://www.v2ex.com/t/1257325": {
+   "date": "2026-11-17",
+   "title": "世态炎凉，瑟瑟发抖"
+  },
+  "title:世态炎凉，瑟瑟发抖": {
+   "date": "2026-11-17",
+   "title": "世态炎凉，瑟瑟发抖"
+  },
+  "https://www.v2ex.com/t/1257339": {
+   "date": "2026-11-17",
+   "title": "其实我个人也是比较偏向于使用国模的，但问题是"
+  },
+  "title:其实我个人也是比较偏向于使用国模的，但问题是": {
+   "date": "2026-11-17",
+   "title": "其实我个人也是比较偏向于使用国模的，但问题是"
+  },
+  "https://huggingface.co/spaces/minimaxai/minimax-h3-image": {
+   "date": "2026-11-17",
+   "title": "MiniMaxAI/minimax-h3-image"
+  },
+  "https://gitee.com/qiantongtech/qontology": {
+   "date": "2026-11-17",
+   "title": "千桐科技/qOntology"
+  },
+  "title:千桐科技/qontology": {
+   "date": "2026-11-17",
+   "title": "千桐科技/qOntology"
+  },
+  "https://huggingface.co/spaces/townbox/ava": {
+   "date": "2026-11-17",
+   "title": "townbox/ava"
+  },
+  "title:townbox/ava": {
+   "date": "2026-11-17",
+   "title": "townbox/ava"
+  },
+  "https://www.v2ex.com/t/1257321": {
+   "date": "2026-11-17",
+   "title": "唉，QQ 音乐年会员又涨价了"
+  },
+  "title:唉，qq音乐年会员又涨价了": {
+   "date": "2026-11-17",
+   "title": "唉，QQ 音乐年会员又涨价了"
+  },
+  "https://www.v2ex.com/t/1257459": {
+   "date": "2026-11-17",
+   "title": "干半天才发现：人家没读书，却比我混得好"
+  },
+  "title:干半天才发现：人家没读书，却比我混得好": {
+   "date": "2026-11-17",
+   "title": "干半天才发现：人家没读书，却比我混得好"
+  },
+  "https://huggingface.co/spaces/fafsaf1/flowhmr": {
+   "date": "2026-11-17",
+   "title": "fafsaf1/FlowHMR"
+  },
+  "title:fafsaf1/flowhmr": {
+   "date": "2026-11-17",
+   "title": "fafsaf1/FlowHMR"
+  },
+  "https://www.v2ex.com/t/1257320": {
+   "date": "2026-11-17",
+   "title": "[HyperAPI 中转站]的佬友们来领鸡蛋了，评论留 ID，送$10 体验额度"
+  },
+  "title:[hyperapi中转站]的佬友们来领鸡蛋了，评论留id，送$10体验额度": {
+   "date": "2026-11-17",
+   "title": "[HyperAPI 中转站]的佬友们来领鸡蛋了，评论留 ID，送$10 体验额度"
+  },
+  "https://www.v2ex.com/t/1257359": {
+   "date": "2026-11-17",
+   "title": "让你见识下 8 年 IOS 的实力"
+  },
+  "title:让你见识下8年ios的实力": {
+   "date": "2026-11-17",
+   "title": "让你见识下 8 年 IOS 的实力"
+  },
+  "https://huggingface.co/spaces/cfahlgren1/pixel-search": {
+   "date": "2026-11-17",
+   "title": "cfahlgren1/pixel-search"
+  },
+  "title:cfahlgren1/pixel-search": {
+   "date": "2026-11-17",
+   "title": "cfahlgren1/pixel-search"
+  },
+  "https://gitee.com/calvinwilliams/zlang": {
+   "date": "2026-11-17",
+   "title": "calvinwilliams/zlang"
+  },
+  "title:calvinwilliams/zlang": {
+   "date": "2026-11-17",
+   "title": "calvinwilliams/zlang"
+  },
+  "https://www.v2ex.com/t/1257456": {
+   "date": "2026-11-17",
+   "title": "跟异性聊天总是没话题，有没有军师指点"
+  },
+  "title:跟异性聊天总是没话题，有没有军师指点": {
+   "date": "2026-11-17",
+   "title": "跟异性聊天总是没话题，有没有军师指点"
+  },
+  "https://www.v2ex.com/t/1257371": {
+   "date": "2026-11-17",
+   "title": "我们拼命努力了半辈子，可能只是为了过上曾经已经拥有的生活"
+  },
+  "title:我们拼命努力了半辈子，可能只是为了过上曾经已经拥有的生活": {
+   "date": "2026-11-17",
+   "title": "我们拼命努力了半辈子，可能只是为了过上曾经已经拥有的生活"
+  },
+  "https://huggingface.co/spaces/akhaliq/qwen35-3d-coder-studio": {
+   "date": "2026-11-17",
+   "title": "akhaliq/qwen35-3d-coder-studio"
+  },
+  "title:akhaliq/qwen35-3d-coder-studio": {
+   "date": "2026-11-17",
+   "title": "akhaliq/qwen35-3d-coder-studio"
+  },
+  "https://www.v2ex.com/t/1257419": {
+   "date": "2026-11-17",
+   "title": "北美大豆包是真的不行啊！"
+  },
+  "title:北美大豆包是真的不行啊！": {
+   "date": "2026-11-17",
+   "title": "北美大豆包是真的不行啊！"
+  },
+  "https://gitee.com/qingjian-team/qingjian": {
+   "date": "2026-11-17",
+   "title": "青简/qingjian"
+  },
+  "title:青简/qingjian": {
+   "date": "2026-11-17",
+   "title": "青简/qingjian"
+  },
+  "https://gitee.com/nuphus/nuphus": {
+   "date": "2026-11-17",
+   "title": "nuphus/nuphus"
+  },
+  "title:nuphus/nuphus": {
+   "date": "2026-11-17",
+   "title": "nuphus/nuphus"
+  },
+  "https://gitee.com/shenhaoyu666/hexapod-robot-tj1-open-source": {
+   "date": "2026-11-17",
+   "title": "HY/六足机器人TJ1开源"
+  },
+  "title:hy/六足机器人tj1开源": {
+   "date": "2026-11-17",
+   "title": "HY/六足机器人TJ1开源"
+  },
+  "https://juejin.cn/post/7708478489645285402": {
+   "date": "2026-11-17",
+   "title": "文件明明在本地，为什么自动验收仍说没交？我的 SoduWork 使用记录"
+  },
+  "title:文件明明在本地，为什么自动验收仍说没交？我的soduwork使用记录": {
+   "date": "2026-11-17",
+   "title": "文件明明在本地，为什么自动验收仍说没交？我的 SoduWork 使用记录"
+  },
+  "https://juejin.cn/post/7708639137272102966": {
+   "date": "2026-11-17",
+   "title": "AI帮我生成了一个炫酷的3D大屏，上线3天就卡崩了"
+  },
+  "title:ai帮我生成了一个炫酷的3d大屏，上线3天就卡崩了": {
+   "date": "2026-11-17",
+   "title": "AI帮我生成了一个炫酷的3D大屏，上线3天就卡崩了"
+  },
+  "https://juejin.cn/post/7707639689457582106": {
+   "date": "2026-11-17",
+   "title": "井道无信号、满手黑机油，我们如何用 DeepSeek V4 打造不“犯浑”的电梯维保 Agent？"
+  },
+  "title:井道无信号、满手黑机油，我们如何用deepseekv4打造不“犯浑”的电梯维保agent？": {
+   "date": "2026-11-17",
+   "title": "井道无信号、满手黑机油，我们如何用 DeepSeek V4 打造不“犯浑”的电梯维保 Agent？"
+  },
+  "https://juejin.cn/post/7707957158462357546": {
+   "date": "2026-11-17",
+   "title": "代码越来越便宜，判断力越来越贵：AI 时代的 Android 架构与协程避坑指南"
+  },
+  "title:代码越来越便宜，判断力越来越贵：ai时代的android架构与协程避坑指南": {
+   "date": "2026-11-17",
+   "title": "代码越来越便宜，判断力越来越贵：AI 时代的 Android 架构与协程避坑指南"
+  },
+  "https://juejin.cn/post/7707927071724535817": {
+   "date": "2026-11-17",
+   "title": "我花了一周时间，看AI公司怎么\"管\"AI，结果越看越后背发凉"
+  },
+  "title:我花了一周时间，看ai公司怎么\"管\"ai，结果越看越后背发凉": {
+   "date": "2026-11-17",
+   "title": "我花了一周时间，看AI公司怎么\"管\"AI，结果越看越后背发凉"
+  },
+  "https://juejin.cn/post/7708058421904392242": {
+   "date": "2026-11-17",
+   "title": "DeepSeek Harness 实战与架构解析：让 Agent 从“会聊”到“能交付”"
+  },
+  "title:deepseekharness实战与架构解析：让agent从“会聊”到“能交付”": {
+   "date": "2026-11-17",
+   "title": "DeepSeek Harness 实战与架构解析：让 Agent 从“会聊”到“能交付”"
+  },
+  "https://juejin.cn/post/7708565080221040683": {
+   "date": "2026-11-17",
+   "title": "连AI自己也不愿意维护自己的屎山代码"
+  },
+  "title:连ai自己也不愿意维护自己的屎山代码": {
+   "date": "2026-11-17",
+   "title": "连AI自己也不愿意维护自己的屎山代码"
+  },
+  "https://juejin.cn/post/7708010764016517147": {
+   "date": "2026-11-17",
+   "title": "Flutter Analyzer 系列坑推进，必看，AI 时代这玩意最吃你内存"
+  },
+  "title:flutteranalyzer系列坑推进，必看，ai时代这玩意最吃你内存": {
+   "date": "2026-11-17",
+   "title": "Flutter Analyzer 系列坑推进，必看，AI 时代这玩意最吃你内存"
+  },
+  "https://juejin.cn/post/7707927071724486665": {
+   "date": "2026-11-17",
+   "title": "AI Agent 子智能体协作实战：怎样用好 Subagent 分工与省 Token｜Oil Book"
+  },
+  "title:aiagent子智能体协作实战：怎样用好subagent分工与省token｜oilbook": {
+   "date": "2026-11-17",
+   "title": "AI Agent 子智能体协作实战：怎样用好 Subagent 分工与省 Token｜Oil Book"
+  },
+  "https://juejin.cn/post/7708627348664762394": {
+   "date": "2026-11-17",
+   "title": "如何让 AI 高效工作"
+  },
+  "title:如何让ai高效工作": {
+   "date": "2026-11-17",
+   "title": "如何让 AI 高效工作"
+  },
+  "https://juejin.cn/post/7707938781526245391": {
+   "date": "2026-11-17",
+   "title": "为什么 agent 的 demo 都很惊艳，上了生产就不靠谱"
+  },
+  "title:为什么agent的demo都很惊艳，上了生产就不靠谱": {
+   "date": "2026-11-17",
+   "title": "为什么 agent 的 demo 都很惊艳，上了生产就不靠谱"
+  },
+  "https://juejin.cn/post/7708030289726177334": {
+   "date": "2026-11-17",
+   "title": "AI 热点日报（2026-11-16）：黄仁勋或重返英伟达，华为发具身世界模型，ChatGPT Wallet打通支付"
+  },
+  "title:ai热点日报（2026-11-16）：黄仁勋或重返英伟达，华为发具身世界模型，chatgptwallet打通支付": {
+   "date": "2026-11-17",
+   "title": "AI 热点日报（2026-11-16）：黄仁勋或重返英伟达，华为发具身世界模型，ChatGPT Wallet打通支付"
+  },
+  "https://juejin.cn/post/7707859691132960777": {
+   "date": "2026-11-17",
+   "title": "JavaScript：BOM 详解"
+  },
+  "title:javascript：bom详解": {
+   "date": "2026-11-17",
+   "title": "JavaScript：BOM 详解"
+  },
+  "https://juejin.cn/post/7707927071724896265": {
+   "date": "2026-11-17",
+   "title": "用仓颉语言 cj-tauri 框架，五分钟给娃做了个鸿蒙形近字游戏"
+  },
+  "title:用仓颉语言cj-tauri框架，五分钟给娃做了个鸿蒙形近字游戏": {
+   "date": "2026-11-17",
+   "title": "用仓颉语言 cj-tauri 框架，五分钟给娃做了个鸿蒙形近字游戏"
+  },
+  "https://juejin.cn/post/7707532087125311498": {
+   "date": "2026-11-17",
+   "title": "我以为是流体解算，结果只是一张贴图：复刻 Lusion 的屏幕流体特效"
+  },
+  "title:我以为是流体解算，结果只是一张贴图：复刻lusion的屏幕流体特效": {
+   "date": "2026-11-17",
+   "title": "我以为是流体解算，结果只是一张贴图：复刻 Lusion 的屏幕流体特效"
+  },
+  "https://juejin.cn/post/7707499415200514099": {
+   "date": "2026-11-17",
+   "title": "否决 Flutter 提案那天，我发现自己也说不清 Framework 管什么"
+  },
+  "title:否决flutter提案那天，我发现自己也说不清framework管什么": {
+   "date": "2026-11-17",
+   "title": "否决 Flutter 提案那天，我发现自己也说不清 Framework 管什么"
+  },
+  "https://juejin.cn/post/7707957158444875839": {
+   "date": "2026-11-17",
+   "title": "一天一个开源项目（第260篇）：Plannotator —— 给 AI 编码 Agent 配一块「可批注的审阅台」，计划和代码改动都能在浏览器里逐条批示"
+  },
+  "title:一天一个开源项目（第260篇）：plannotator——给ai编码agent配一块「可批注的审阅台」，计划和代码改动都能在浏览器里逐条批示": {
+   "date": "2026-11-17",
+   "title": "一天一个开源项目（第260篇）：Plannotator —— 给 AI 编码 Agent 配一块「可批注的审阅台」，计划和代码改动都能在浏览器里逐条批示"
+  },
+  "https://juejin.cn/post/7708572722204393507": {
+   "date": "2026-11-17",
+   "title": "京东云推出全新JoyCode智能编码工具，让AI Coding从代码生成走向成果交付"
+  },
+  "title:京东云推出全新joycode智能编码工具，让aicoding从代码生成走向成果交付": {
+   "date": "2026-11-17",
+   "title": "京东云推出全新JoyCode智能编码工具，让AI Coding从代码生成走向成果交付"
+  },
+  "https://juejin.cn/post/7708062899030081563": {
+   "date": "2026-11-17",
+   "title": "小白用 AI 做官网完全指南：不用框架的六格清单，双击就能打开"
+  },
+  "title:小白用ai做官网完全指南：不用框架的六格清单，双击就能打开": {
+   "date": "2026-11-17",
+   "title": "小白用 AI 做官网完全指南：不用框架的六格清单，双击就能打开"
+  },
+  "https://juejin.cn/post/7708030289726488630": {
+   "date": "2026-11-17",
+   "title": "面试官问\"MySQL 大表 COUNT(*) 怎么优化\"，90% 的人第一步就答错了"
+  },
+  "title:面试官问\"mysql大表count(*)怎么优化\"，90%的人第一步就答错了": {
+   "date": "2026-11-17",
+   "title": "面试官问\"MySQL 大表 COUNT(*) 怎么优化\"，90% 的人第一步就答错了"
+  },
+  "https://juejin.cn/post/7708590532188782619": {
+   "date": "2026-11-17",
+   "title": "免费 API 满地都是，为什么还有人做「让网页 AI 干活」这种东西"
+  },
+  "title:免费api满地都是，为什么还有人做「让网页ai干活」这种东西": {
+   "date": "2026-11-17",
+   "title": "免费 API 满地都是，为什么还有人做「让网页 AI 干活」这种东西"
+  },
+  "https://juejin.cn/post/7707462833181540361": {
+   "date": "2026-11-17",
+   "title": "AI 生成的代码谁来验收？从 Copilot 到 WorkBuddy 的三个实践"
+  },
+  "title:ai生成的代码谁来验收？从copilot到workbuddy的三个实践": {
+   "date": "2026-11-17",
+   "title": "AI 生成的代码谁来验收？从 Copilot 到 WorkBuddy 的三个实践"
+  },
+  "https://juejin.cn/post/7708350820139745320": {
+   "date": "2026-11-17",
+   "title": "小红书/抖音图文排版利器——一个杂志风skill"
+  },
+  "title:小红书/抖音图文排版利器——一个杂志风skill": {
+   "date": "2026-11-17",
+   "title": "小红书/抖音图文排版利器——一个杂志风skill"
+  },
+  "https://juejin.cn/post/7708141298793234459": {
+   "date": "2026-11-17",
+   "title": "Vibe 知识视频火了！不剪辑不烧积分，我用 WorkBuddy 直出两条成片"
+  },
+  "title:vibe知识视频火了！不剪辑不烧积分，我用workbuddy直出两条成片": {
+   "date": "2026-11-17",
+   "title": "Vibe 知识视频火了！不剪辑不烧积分，我用 WorkBuddy 直出两条成片"
+  },
+  "https://juejin.cn/post/7708108117679521833": {
+   "date": "2026-11-17",
+   "title": "AI Models 1.1.0 发布，查大模型价格、对比模型和找 API 地址"
+  },
+  "title:aimodels1.1.0发布，查大模型价格、对比模型和找api地址": {
+   "date": "2026-11-17",
+   "title": "AI Models 1.1.0 发布，查大模型价格、对比模型和找 API 地址"
+  },
+  "https://juejin.cn/post/7708023020069601295": {
+   "date": "2026-11-17",
+   "title": "一个项目五个 AI 同时干活，Claude Code 怎么让它们不互相打架"
+  },
+  "title:一个项目五个ai同时干活，claudecode怎么让它们不互相打架": {
+   "date": "2026-11-17",
+   "title": "一个项目五个 AI 同时干活，Claude Code 怎么让它们不互相打架"
+  },
+  "https://juejin.cn/post/7707644445542711305": {
+   "date": "2026-11-17",
+   "title": "Webpack 打包从 0 到 1 实战笔记"
+  },
+  "title:webpack打包从0到1实战笔记": {
+   "date": "2026-11-17",
+   "title": "Webpack 打包从 0 到 1 实战笔记"
+  },
+  "https://juejin.cn/post/7708436182450995209": {
+   "date": "2026-11-17",
+   "title": "AI Assistant被\"隐藏\"了？别慌，IDEA 2026.3 这波是换了个脑子"
+  },
+  "title:aiassistant被\"隐藏\"了？别慌，idea2026.3这波是换了个脑子": {
+   "date": "2026-11-17",
+   "title": "AI Assistant被\"隐藏\"了？别慌，IDEA 2026.3 这波是换了个脑子"
+  }
+ }
 }
