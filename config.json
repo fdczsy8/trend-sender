@@ -1,0 +1,39 @@
+{
+  "mode": "full",
+  "per_source_limit": 30,
+  "min_stars": {
+    "github": 50,
+    "gitee": 10,
+    "huggingface": 20,
+    "modelscope": 20,
+    "codepen": 5,
+    "juejin": 0,
+    "v2ex": 0
+  },
+  "dedup_days": 7,
+  "history_keep_days": 60,
+  "request_delay_seconds": 2,
+  "enabled_sources": {
+    "github": true,
+    "gitee": true,
+    "huggingface": true,
+    "modelscope": true,
+    "codepen": true,
+    "juejin": true,
+    "v2ex": true
+  },
+  "whitelist": ["FusionApp", "TTS", "前端", "webview", "html打包", "播放器", "音乐播放器", "黄历", "日历"],
+  "blacklist": ["运维", "kubernetes", "k8s", "汇编", "区块链", "矿机", "挖矿", "广告联盟", "seo", "论文", "arxiv", "底层", "内核源码分析"],
+  "single_html_keywords": ["单文件", "单html", "一个html", "纯html", "single html", "single-html", "single file", "one html", "html+css+js", "开箱即用 网页", "index.html"],
+  "mark_codepen_as_single_html": true,
+  "mark_html_language_repos": true,
+  "categories": {
+    "前端": ["前端", "javascript", "typescript", "css", "html", "react", "vue", "svelte", "threejs", "canvas", "小程序", "web", "ui", "网页", "浏览器", "chrome插件", "webview"],
+    "AI模型": ["llm", "大模型", "gpt", "diffusion", "stable diffusion", "transformer", "checkpoint", "lora", "语料", "语音", "tts", "asr", "声音克隆", "chatbot", "agent", "ai"],
+    "安卓工具": ["android", "安卓", "apk", "kotlin", "jetpack compose", "flutter", "xposed", "魔改"],
+    "在线Demo": ["demo", "playground", "sandbox", "在线体验", "在线演示", "space", "play with", "live example", "try it"],
+    "教程": ["教程", "tutorial", "guide", "入门", "手把手", "从零", "学习笔记", "系列", "course", "实践指南", "一文读懂"]
+  },
+  "desc_max_length": 160,
+  "max_items_per_section": 25
+}
