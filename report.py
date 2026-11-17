@@ -13,7 +13,7 @@ TAG_COLORS = {
     "教程": "#c2418f",
 }
 
-SECTION_ORDER = ["github", "gitee", "huggingface", "modelscope", "codepen", "juejin", "v2ex"]
+SECTION_ORDER = ["watch", "github", "ghhtml", "gitee", "huggingface", "modelscope", "codepen", "juejin", "v2ex"]
 
 
 def esc(text: str) -> str:
@@ -163,7 +163,7 @@ def render_markdown(sections, stats: dict, mode: str, date_str: str) -> str:
                 marks += "【单HTML】"
             tags = "".join(f" `{t}`" for t in it.extra.get("categories", []))
             heat = f" — {it.heat}" if it.heat else ""
-            lines.append(f"- {marks}[{cut(it.title, 100)}]({it.url}){tags}{heat}")
+            lines.append(f"- {marks}[{cut(it.title, 100)}]({it.url}){标签}{heat}")
             if mode == "full" and it.desc:
                 lines.append(f"  - {cut(it.desc, max_len)}")
         lines.append("")
