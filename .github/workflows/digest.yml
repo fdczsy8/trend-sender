@@ -1,0 +1,123 @@
+name: 资讯日报邮件推送
+
+on:
+  schedule:
+    # 北京时间 08:00 / 20:00（GitHub Actions 用 UTC，UTC+8 需减 8 小时）
+    - cron: "0 0 * * *"
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "邮件模式"
+        type: choice
+        default: "full"
+        options: ["full", "compact"]
+      min_stars:
+        description: "Star 下限（留空则用 config.json 各源默认值）"
+        required: false
+        default: ""
+      src_github:
+        description: "GitHub Trending"
+        type: choice
+        default: "on"
+        options: ["on", "off"]
+      src_gitee:
+        description: "Gitee 热榜"
+        type: choice
+        default: "on"
+        options: ["on", "off"]
+      src_huggingface:
+        description: "HuggingFace 模型+Space"
+        type: choice
+        default: "on"
+        options: ["on", "off"]
+      src_modelscope:
+        description: "魔搭 ModelScope"
+        type: choice
+        default: "on"
+        options: ["on", "off"]
+      src_codepen:
+        description: "CodePen 热门"
+        type: choice
+        default: "on"
+        options: ["on", "off"]
+      src_juejin:
+        description: "掘金热榜"
+        type: choice
+        default: "on"
+        options: ["on", "off"]
+      src_v2ex:
+        description: "V2EX 热议"
+        type: choice
+        default: "on"
+        options: ["on", "off"]
+
+# 定时触发时读取仓库 Variables（Settings → Secrets and variables → Actions → Variables）
+# 可配置: MODE / MIN_STARS / DEDUP_DAYS / SRC_GITHUB / SRC_GITEE / SRC_HUGGINGFACE
+#         / SRC_MODELSCOPE / SRC_CODEPEN / SRC_JUEJIN / SRC_V2EX  （值填 true 或 false）
+
+permissions:
+  contents: write
+
+concurrency:
+  group: digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    env:
+      SMTP_HOST: smtp.qq.com
+      SMTP_PORT: "465"
+      SMTP_USER: ${{ secrets.SMTP_USER }}
+      SMTP_PASS: ${{ secrets.SMTP_PASS }}
+      MAIL_TO: ${{ secrets.MAIL_TO }}
+      MAIL_FROM: ${{ secrets.MAIL_FROM }}
+      MODE: ${{ github.event.inputs.mode || vars.MODE || 'full' }}
+      MIN_STARS: ${{ github.event.inputs.min_stars || vars.MIN_STARS }}
+      DEDUP_DAYS: ${{ vars.DEDUP_DAYS }}
+      SRC_GITHUB: ${{ github.event.inputs.src_github || vars.SRC_GITHUB }}
+      SRC_GITEE: ${{ github.event.inputs.src_gitee || vars.SRC_GITEE }}
+      SRC_HUGGINGFACE: ${{ github.event.inputs.src_huggingface || vars.SRC_HUGGINGFACE }}
+      SRC_MODELSCOPE: ${{ github.event.inputs.src_modelscope || vars.SRC_MODELSCOPE }}
+      SRC_CODEPEN: ${{ github.event.inputs.src_codepen || vars.SRC_CODEPEN }}
+      SRC_JUEJIN: ${{ github.event.inputs.src_juejin || vars.SRC_JUEJIN }}
+      SRC_V2EX: ${{ github.event.inputs.src_v2ex || vars.SRC_V2EX }}
+
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 抓取并推送邮件
+        run: python main.py
+
+      - name: 回写去重缓存
+        run: |
+          git config user.name "digest-bot"
+          git config user.email "digest-bot@users.noreply.github.com"
+          git add cache/history.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: 更新去重缓存 $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          else
+            echo "缓存无变化，跳过提交"
+          fi
+
+      - name: 上传 Markdown 清单
+        uses: actions/upload-artifact@v4
+        with:
+          name: digest-markdown
+          path: output/
+          retention-days: 30
+          if-no-files-found: ignore
