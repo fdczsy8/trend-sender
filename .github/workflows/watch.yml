@@ -2,7 +2,7 @@ name: 关注更新哨兵
 
 on:
   schedule:
-    # 每 2 小时检查一次关注名单（北京时间全天 00 分/12 分错峰由 cron 均匀分布）
+    # 每 2 小时检查一次关注名单
     - cron: "0 */2 * * *"
   workflow_dispatch:
     inputs:
@@ -64,3 +64,4 @@ jobs:
           else
             echo "缓存无变化，跳过提交"
           fi
+
