@@ -28,7 +28,11 @@ def collect_items(cfg: dict):
     items, stats = [], {}
     delay = cfg.get("request_delay_seconds", 2)
     limit = cfg.get("per_source_limit", 30)
+    only = os.environ.get("ONLY_SOURCES", "").strip()
+    only_set = {x.strip().lower() for x in only.split(",") if x.strip()} if only else None
     for idx, (key, name, fetcher) in enumerate(sources.SOURCE_REGISTRY):
+        if only_set is not None and key not in only_set:
+            continue
         if not pipeline.source_enabled(key, cfg):
             print(f"[skip] {name} 已关闭")
             continue
@@ -87,9 +91,12 @@ def run(send_email: bool = True) -> int:
     print(f"[output] Markdown 清单: {md_path}")
 
     failures = {n: i.get("error", "") for n, i in source_stats.items() if not i.get("ok")}
+    skip_empty = os.environ.get("SKIP_IF_EMPTY", "").strip().lower() in ("1", "true", "on", "yes")
 
     if not send_email:
         print("[dry-run] 跳过邮件发送")
+    elif skip_empty and not fresh:
+        print("[skip-empty] 无新内容，跳过日报邮件")
     elif not mailer.smtp_configured():
         print("[warn] SMTP 未配置，跳过发送（本地预览可打开 output/digest.html）")
     else:
@@ -123,3 +130,4 @@ def main() -> int:
 
 if __name__ == "__main__":
     sys.exit(main())
+
