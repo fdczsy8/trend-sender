@@ -2,7 +2,9 @@
   "mode": "full",
   "per_source_limit": 30,
   "min_stars": {
+    "watch": 0,
     "github": 50,
+    "ghhtml": 10,
     "gitee": 10,
     "huggingface": 20,
     "modelscope": 20,
@@ -14,14 +16,18 @@
   "history_keep_days": 60,
   "request_delay_seconds": 2,
   "enabled_sources": {
+    "watch": true,
     "github": true,
+    "ghhtml": true,
     "gitee": true,
     "huggingface": true,
     "modelscope": true,
-    "codepen": true,
+    "codepen": false,
     "juejin": true,
     "v2ex": true
   },
+  "watch_repos": [],
+  "watch_users": [],
   "whitelist": ["FusionApp", "TTS", "前端", "webview", "html打包", "播放器", "音乐播放器", "黄历", "日历"],
   "blacklist": ["运维", "kubernetes", "k8s", "汇编", "区块链", "矿机", "挖矿", "广告联盟", "seo", "论文", "arxiv", "底层", "内核源码分析"],
   "single_html_keywords": ["单文件", "单html", "一个html", "纯html", "single html", "single-html", "single file", "one html", "html+css+js", "开箱即用 网页", "index.html"],
@@ -37,3 +43,4 @@
   "desc_max_length": 160,
   "max_items_per_section": 25
 }
+
