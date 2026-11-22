@@ -2979,6 +2979,198 @@
   "title:【springinsight技术分享】跨服务调用链路是怎么串起来的？": {
    "date": "2026-11-22",
    "title": "【Spring Insight 技术分享】跨服务调用链路是怎么串起来的？"
+  },
+  "https://juejin.cn/post/7710053374062608438": {
+   "date": "2026-11-22",
+   "title": "给 Agent 一张地图，而不是一座迷宫：前端 monorepo 目录结构重构实录"
+  },
+  "title:给agent一张地图，而不是一座迷宫：前端monorepo目录结构重构实录": {
+   "date": "2026-11-22",
+   "title": "给 Agent 一张地图，而不是一座迷宫：前端 monorepo 目录结构重构实录"
+  },
+  "https://juejin.cn/post/7710037720588992563": {
+   "date": "2026-11-22",
+   "title": "尾言：关于前端工程架构设计的一些思考"
+  },
+  "title:尾言：关于前端工程架构设计的一些思考": {
+   "date": "2026-11-22",
+   "title": "尾言：关于前端工程架构设计的一些思考"
+  },
+  "https://huggingface.co/sulphurai/sulphur-3": {
+   "date": "2026-11-22",
+   "title": "SulphurAI/Sulphur-3"
+  },
+  "title:sulphurai/sulphur-3": {
+   "date": "2026-11-22",
+   "title": "SulphurAI/Sulphur-3"
+  },
+  "https://www.v2ex.com/t/1258889": {
+   "date": "2026-11-22",
+   "title": "创建了几个 muse 账户，有谁想玩吗"
+  },
+  "title:创建了几个muse账户，有谁想玩吗": {
+   "date": "2026-11-22",
+   "title": "创建了几个 muse 账户，有谁想玩吗"
+  },
+  "https://www.v2ex.com/t/1258864": {
+   "date": "2026-11-22",
+   "title": "过了 30，配好了电脑，感觉电子阳痿了"
+  },
+  "title:过了30，配好了电脑，感觉电子阳痿了": {
+   "date": "2026-11-22",
+   "title": "过了 30，配好了电脑，感觉电子阳痿了"
+  },
+  "https://www.v2ex.com/t/1258887": {
+   "date": "2026-11-22",
+   "title": "google 账号改地区总是被驳回"
+  },
+  "title:google账号改地区总是被驳回": {
+   "date": "2026-11-22",
+   "title": "google 账号改地区总是被驳回"
+  },
+  "https://www.v2ex.com/t/1258877": {
+   "date": "2026-11-22",
+   "title": "重度使用 neon 后，我宣布中国人可以不用考虑开 claude 订阅了"
+  },
+  "title:重度使用neon后，我宣布中国人可以不用考虑开claude订阅了": {
+   "date": "2026-11-22",
+   "title": "重度使用 neon 后，我宣布中国人可以不用考虑开 claude 订阅了"
+  },
+  "https://www.v2ex.com/t/1258895": {
+   "date": "2026-11-22",
+   "title": "有没有网上方便采购的预制菜，方便做+好吃营养+省钱的推荐？懒人不想花太多时间折腾吃了。"
+  },
+  "title:有没有网上方便采购的预制菜，方便做+好吃营养+省钱的推荐？懒人不想花太多时间折腾吃了。": {
+   "date": "2026-11-22",
+   "title": "有没有网上方便采购的预制菜，方便做+好吃营养+省钱的推荐？懒人不想花太多时间折腾吃了。"
+  },
+  "https://www.v2ex.com/t/1258855": {
+   "date": "2026-11-22",
+   "title": "Apple Watch：戴了 8 年，我的使用测评"
+  },
+  "title:applewatch：戴了8年，我的使用测评": {
+   "date": "2026-11-22",
+   "title": "Apple Watch：戴了 8 年，我的使用测评"
+  },
+  "https://www.v2ex.com/t/1258894": {
+   "date": "2026-11-22",
+   "title": "关于 Agy 无法将远程 Mac 作为开发宿主机，大家目前有优雅的解决方案吗？"
+  },
+  "title:关于agy无法将远程mac作为开发宿主机，大家目前有优雅的解决方案吗？": {
+   "date": "2026-11-22",
+   "title": "关于 Agy 无法将远程 Mac 作为开发宿主机，大家目前有优雅的解决方案吗？"
+  },
+  "https://gitee.com/hackloop/metaontic-video": {
+   "date": "2026-11-22",
+   "title": "中盛世通/metaontic-video"
+  },
+  "title:中盛世通/metaontic-video": {
+   "date": "2026-11-22",
+   "title": "中盛世通/metaontic-video"
+  },
+  "https://juejin.cn/post/7709859987845218331": {
+   "date": "2026-11-22",
+   "title": "深度拆解 Design Agent：LangChain 出品，AI 设计从「好看」走向「可用」"
+  },
+  "title:深度拆解designagent：langchain出品，ai设计从「好看」走向「可用」": {
+   "date": "2026-11-22",
+   "title": "深度拆解 Design Agent：LangChain 出品，AI 设计从「好看」走向「可用」"
+  },
+  "https://juejin.cn/post/7710123265189412904": {
+   "date": "2026-11-22",
+   "title": "2026 GitHub 最火的 10 个视频制作与剪辑开源项目：AI 出片、代码生视频、无损剪辑怎么选（附实测截图）"
+  },
+  "title:2026github最火的10个视频制作与剪辑开源项目：ai出片、代码生视频、无损剪辑怎么选（附实测截图）": {
+   "date": "2026-11-22",
+   "title": "2026 GitHub 最火的 10 个视频制作与剪辑开源项目：AI 出片、代码生视频、无损剪辑怎么选（附实测截图）"
+  },
+  "https://juejin.cn/post/7709987743643795499": {
+   "date": "2026-11-22",
+   "title": "我的抓取脚本凭什么从不抢你的鼠标"
+  },
+  "title:我的抓取脚本凭什么从不抢你的鼠标": {
+   "date": "2026-11-22",
+   "title": "我的抓取脚本凭什么从不抢你的鼠标"
+  },
+  "https://juejin.cn/post/7709818243503259702": {
+   "date": "2026-11-22",
+   "title": "AI 编程的下一场战争，不在模型，在协议"
+  },
+  "title:ai编程的下一场战争，不在模型，在协议": {
+   "date": "2026-11-22",
+   "title": "AI 编程的下一场战争，不在模型，在协议"
+  },
+  "https://juejin.cn/post/7709796533182021668": {
+   "date": "2026-11-22",
+   "title": "32 GB 内存跑起 1800 亿参数模型，代价是什么？"
+  },
+  "title:32gb内存跑起1800亿参数模型，代价是什么？": {
+   "date": "2026-11-22",
+   "title": "32 GB 内存跑起 1800 亿参数模型，代价是什么？"
+  },
+  "https://juejin.cn/post/7709761919902482466": {
+   "date": "2026-11-22",
+   "title": "AI Agent Skill 入门指南：文件夹本质、渐进式加载与挑选方法"
+  },
+  "title:aiagentskill入门指南：文件夹本质、渐进式加载与挑选方法": {
+   "date": "2026-11-22",
+   "title": "AI Agent Skill 入门指南：文件夹本质、渐进式加载与挑选方法"
+  },
+  "https://juejin.cn/post/7709725841966088207": {
+   "date": "2026-11-22",
+   "title": "这个开源设计 Skill，帮你把 AI 的设计能力推到极限（Oil UI）"
+  },
+  "title:这个开源设计skill，帮你把ai的设计能力推到极限（oilui）": {
+   "date": "2026-11-22",
+   "title": "这个开源设计 Skill，帮你把 AI 的设计能力推到极限（Oil UI）"
+  },
+  "https://juejin.cn/post/7710461327409004582": {
+   "date": "2026-11-22",
+   "title": "一篇讲透 JS 对象：数据类型、原型链与包装类"
+  },
+  "title:一篇讲透js对象：数据类型、原型链与包装类": {
+   "date": "2026-11-22",
+   "title": "一篇讲透 JS 对象：数据类型、原型链与包装类"
+  },
+  "https://juejin.cn/post/7709810036450000950": {
+   "date": "2026-11-22",
+   "title": "微信小游戏备案很久？这样操作可以直接发布！"
+  },
+  "title:微信小游戏备案很久？这样操作可以直接发布！": {
+   "date": "2026-11-22",
+   "title": "微信小游戏备案很久？这样操作可以直接发布！"
+  },
+  "https://juejin.cn/post/7710140388783161382": {
+   "date": "2026-11-22",
+   "title": "单例设计模式：从 Java/Kotlin 实现到 Android 实战"
+  },
+  "title:单例设计模式：从java/kotlin实现到android实战": {
+   "date": "2026-11-22",
+   "title": "单例设计模式：从 Java/Kotlin 实现到 Android 实战"
+  },
+  "https://juejin.cn/post/7710109647361572864": {
+   "date": "2026-11-22",
+   "title": "codex 接本地模型，单次输出卡在 3208 token：一份照着做就能改的完整教程"
+  },
+  "title:codex接本地模型，单次输出卡在3208token：一份照着做就能改的完整教程": {
+   "date": "2026-11-22",
+   "title": "codex 接本地模型，单次输出卡在 3208 token：一份照着做就能改的完整教程"
+  },
+  "https://juejin.cn/post/7710210162956238874": {
+   "date": "2026-11-22",
+   "title": "npm run dev --host 有风险？我把 Vite 这个 9.1 分漏洞复现了一遍"
+  },
+  "title:npmrundev--host有风险？我把vite这个9.1分漏洞复现了一遍": {
+   "date": "2026-11-22",
+   "title": "npm run dev --host 有风险？我把 Vite 这个 9.1 分漏洞复现了一遍"
+  },
+  "https://juejin.cn/post/7710170786309685263": {
+   "date": "2026-11-22",
+   "title": "一款运行在 DSH（DeepSeek Harness）中的类 Postman HTTP 接口调试插件"
+  },
+  "title:一款运行在dsh（deepseekharness）中的类postmanhttp接口调试插件": {
+   "date": "2026-11-22",
+   "title": "一款运行在 DSH（DeepSeek Harness）中的类 Postman HTTP 接口调试插件"
   }
  }
 }
