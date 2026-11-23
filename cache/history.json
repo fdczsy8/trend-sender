@@ -3331,6 +3331,142 @@
   "title:inkling2mini实测解析：26.4b模型把中间层循环跑3遍，20gb内存塞进笔记本": {
    "date": "2026-11-23",
    "title": "Inkling 2 Mini 实测解析：26.4B 模型把中间层循环跑 3 遍，20GB 内存塞进笔记本"
+  },
+  "https://huggingface.co/spaces/aet256/qwen-image-edit-rapid-aio-loras-experimental": {
+   "date": "2026-11-23",
+   "title": "aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental"
+  },
+  "title:aet256/qwen-image-edit-rapid-aio-loras-experimental": {
+   "date": "2026-11-23",
+   "title": "aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental"
+  },
+  "https://www.v2ex.com/t/1259101": {
+   "date": "2026-11-23",
+   "title": "劝大家不要再开发了，你需要找到内心需要的东西"
+  },
+  "title:劝大家不要再开发了，你需要找到内心需要的东西": {
+   "date": "2026-11-23",
+   "title": "劝大家不要再开发了，你需要找到内心需要的东西"
+  },
+  "https://www.v2ex.com/t/1259053": {
+   "date": "2026-11-23",
+   "title": "牙龈发炎又发烧，拔智齿是住院三颗一起拔好还是分两次"
+  },
+  "title:牙龈发炎又发烧，拔智齿是住院三颗一起拔好还是分两次": {
+   "date": "2026-11-23",
+   "title": "牙龈发炎又发烧，拔智齿是住院三颗一起拔好还是分两次"
+  },
+  "https://www.v2ex.com/t/1259114": {
+   "date": "2026-11-23",
+   "title": "敢写代码问路在何方？2027 年准备转行"
+  },
+  "title:敢写代码问路在何方？2027年准备转行": {
+   "date": "2026-11-23",
+   "title": "敢写代码问路在何方？2027 年准备转行"
+  },
+  "https://juejin.cn/post/7710960543771852800": {
+   "date": "2026-11-23",
+   "title": "我把这套 skills 引入团队，跑了好几个月后，说点真实体感。"
+  },
+  "title:我把这套skills引入团队，跑了好几个月后，说点真实体感。": {
+   "date": "2026-11-23",
+   "title": "我把这套 skills 引入团队，跑了好几个月后，说点真实体感。"
+  },
+  "https://juejin.cn/post/7710853195052990499": {
+   "date": "2026-11-23",
+   "title": "七家中国 AI 公司被控「蒸馏」Claude：模型蒸馏的原理、攻防与争议全解（附一手资料截图）"
+  },
+  "title:七家中国ai公司被控「蒸馏」claude：模型蒸馏的原理、攻防与争议全解（附一手资料截图）": {
+   "date": "2026-11-23",
+   "title": "七家中国 AI 公司被控「蒸馏」Claude：模型蒸馏的原理、攻防与争议全解（附一手资料截图）"
+  },
+  "https://juejin.cn/post/7710966014792810515": {
+   "date": "2026-11-23",
+   "title": "AI 写代码越来越快，程序员为什么反而更累了"
+  },
+  "title:ai写代码越来越快，程序员为什么反而更累了": {
+   "date": "2026-11-23",
+   "title": "AI 写代码越来越快，程序员为什么反而更累了"
+  },
+  "https://juejin.cn/post/7711033019449262130": {
+   "date": "2026-11-23",
+   "title": "A2UI 1.0：Agent 画的 UI，6 端都能原生渲染了！"
+  },
+  "title:a2ui1.0：agent画的ui，6端都能原生渲染了！": {
+   "date": "2026-11-23",
+   "title": "A2UI 1.0：Agent 画的 UI，6 端都能原生渲染了！"
+  },
+  "https://juejin.cn/post/7710893312785465387": {
+   "date": "2026-11-23",
+   "title": "Gemini 4 Neon+Antigravity，干活真猛啊。"
+  },
+  "title:gemini4neon+antigravity，干活真猛啊。": {
+   "date": "2026-11-23",
+   "title": "Gemini 4 Neon+Antigravity，干活真猛啊。"
+  },
+  "https://juejin.cn/post/7710647322555760691": {
+   "date": "2026-11-23",
+   "title": "workbuddy可以操控电脑！真的太省心了，AI博主利器啊"
+  },
+  "title:workbuddy可以操控电脑！真的太省心了，ai博主利器啊": {
+   "date": "2026-11-23",
+   "title": "workbuddy可以操控电脑！真的太省心了，AI博主利器啊"
+  },
+  "https://juejin.cn/post/7710230948282744858": {
+   "date": "2026-11-23",
+   "title": "覆盖索引怎么设计：从回表代价到 MySQL 与 PostgreSQL 的落地写法"
+  },
+  "title:覆盖索引怎么设计：从回表代价到mysql与postgresql的落地写法": {
+   "date": "2026-11-23",
+   "title": "覆盖索引怎么设计：从回表代价到 MySQL 与 PostgreSQL 的落地写法"
+  },
+  "https://juejin.cn/post/7710161773953679360": {
+   "date": "2026-11-23",
+   "title": "JavaScript 预编译机制与执行上下文构建分析"
+  },
+  "title:javascript预编译机制与执行上下文构建分析": {
+   "date": "2026-11-23",
+   "title": "JavaScript 预编译机制与执行上下文构建分析"
+  },
+  "https://juejin.cn/post/7710140388783554598": {
+   "date": "2026-11-23",
+   "title": "用 React 19.2 的 做多页签保活，我踩了 6 个坑"
+  },
+  "title:用react19.2的做多页签保活，我踩了6个坑": {
+   "date": "2026-11-23",
+   "title": "用 React 19.2 的 做多页签保活，我踩了 6 个坑"
+  },
+  "https://juejin.cn/post/7710701905597186063": {
+   "date": "2026-11-23",
+   "title": "Agent 接了上百个工具就变慢变贵？Gemini 把工具加载改成了按需检索"
+  },
+  "title:agent接了上百个工具就变慢变贵？gemini把工具加载改成了按需检索": {
+   "date": "2026-11-23",
+   "title": "Agent 接了上百个工具就变慢变贵？Gemini 把工具加载改成了按需检索"
+  },
+  "https://juejin.cn/post/7710959529731211279": {
+   "date": "2026-11-23",
+   "title": "uView Pro X 2.0 发布：弃用 UTS，全面支持 TypeScript 的 uni-app x 蒸汽模式 UI 框架"
+  },
+  "title:uviewprox2.0发布：弃用uts，全面支持typescript的uni-appx蒸汽模式ui框架": {
+   "date": "2026-11-23",
+   "title": "uView Pro X 2.0 发布：弃用 UTS，全面支持 TypeScript 的 uni-app x 蒸汽模式 UI 框架"
+  },
+  "https://juejin.cn/post/7710159383124951055": {
+   "date": "2026-11-23",
+   "title": "百万 Token 砍到 0.5 美元！微软新模型半价、DeepSeek 连夜撤回搜索费，11 月底开发者怎么搭最省钱？"
+  },
+  "title:百万token砍到0.5美元！微软新模型半价、deepseek连夜撤回搜索费，11月底开发者怎么搭最省钱？": {
+   "date": "2026-11-23",
+   "title": "百万 Token 砍到 0.5 美元！微软新模型半价、DeepSeek 连夜撤回搜索费，11 月底开发者怎么搭最省钱？"
+  },
+  "https://juejin.cn/post/7710094508159598630": {
+   "date": "2026-11-23",
+   "title": "Go：用装饰器给通知发送加上日志"
+  },
+  "title:go：用装饰器给通知发送加上日志": {
+   "date": "2026-11-23",
+   "title": "Go：用装饰器给通知发送加上日志"
   }
  }
 }
