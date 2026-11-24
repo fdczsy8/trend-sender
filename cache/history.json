@@ -1,11 +1,11 @@
 {
  "items": {
   "https://www.modelscope.cn/models/indexteam/indextts-2": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "IndexTeam/IndexTTS-2"
   },
   "title:indexteam/indextts-2": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "IndexTeam/IndexTTS-2"
   },
   "https://huggingface.co/zyphra/zonos3-mini": {
@@ -49,11 +49,11 @@
    "title": "sveltejs/svelte"
   },
   "https://github.com/mvanhorn/last30days-skill": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "mvanhorn/last30days-skill"
   },
   "title:mvanhorn/last30days-skill": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "mvanhorn/last30days-skill"
   },
   "https://github.com/chromedevtools/chrome-devtools-mcp": {
@@ -81,11 +81,11 @@
    "title": "dream-num/univer"
   },
   "https://huggingface.co/qwen/qwen3.8-27b": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "Qwen/Qwen3.8-27B"
   },
   "title:qwen/qwen3.8-27b": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "Qwen/Qwen3.8-27B"
   },
   "https://github.com/ag-ui-protocol/ag-ui": {
@@ -105,19 +105,19 @@
    "title": "backnotprop/plannotator"
   },
   "https://huggingface.co/lightricks/ltx-2.5": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "Lightricks/LTX-2.5"
   },
   "title:lightricks/ltx-2.5": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "Lightricks/LTX-2.5"
   },
   "https://github.com/google-labs-code/stitch-skills": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "google-labs-code/stitch-skills"
   },
   "title:google-labs-code/stitch-skills": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "google-labs-code/stitch-skills"
   },
   "https://huggingface.co/xtools-at/deepseek-v4-pro-qwen3.5-9b-uncensored-heretic": {
@@ -201,11 +201,11 @@
    "title": "NVIDIA/SkillEvaluator"
   },
   "https://www.modelscope.cn/models/tongyi-mai/z-image-turbo": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "Tongyi-MAI/Z-Image-Turbo"
   },
   "title:tongyi-mai/z-image-turbo": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "Tongyi-MAI/Z-Image-Turbo"
   },
   "https://huggingface.co/speridlabs/idol": {
@@ -217,11 +217,11 @@
    "title": "speridlabs/idol"
   },
   "https://www.modelscope.cn/models/minimax/minimax-h3": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "MiniMax/MiniMax-H3"
   },
   "title:minimax/minimax-h3": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "MiniMax/MiniMax-H3"
   },
   "https://huggingface.co/moonshotai/kimi-k3.1-pro": {
@@ -233,7 +233,7 @@
    "title": "moonshotai/Kimi-K3.1-Pro"
   },
   "https://www.modelscope.cn/models/qwen/qwen3.8-27b": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "Qwen/Qwen3.8-27B"
   },
   "https://huggingface.co/spaces/kulkas2pintu/wan777": {
@@ -245,11 +245,11 @@
    "title": "kulkas2pintu/wan777"
   },
   "https://www.modelscope.cn/models/qwen/qwen3.8-flash-next": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "Qwen/Qwen3.8-Flash-Next"
   },
   "title:qwen/qwen3.8-flash-next": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "Qwen/Qwen3.8-Flash-Next"
   },
   "https://github.com/google-research/paper-orchestra": {
@@ -261,19 +261,19 @@
    "title": "google-research/paper-orchestra"
   },
   "https://www.modelscope.cn/models/qwen/qwen-image-2.1": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "Qwen/Qwen-Image-2.1"
   },
   "title:qwen/qwen-image-2.1": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "Qwen/Qwen-Image-2.1"
   },
   "https://www.modelscope.cn/models/deepseek-ai/deepseek-r1": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "deepseek-ai/DeepSeek-R1"
   },
   "title:deepseek-ai/deepseek-r1": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "deepseek-ai/DeepSeek-R1"
   },
   "https://huggingface.co/minimaxai/minimax-h3-image": {
@@ -281,31 +281,31 @@
    "title": "MiniMaxAI/MiniMax-H3-Image"
   },
   "title:minimaxai/minimax-h3-image": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "MiniMaxAI/minimax-h3-image"
   },
   "https://www.modelscope.cn/models/qwen/qwen3-coder-480b-a35b-instruct": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "Qwen/Qwen3-Coder-480B-A35B-Instruct"
   },
   "title:qwen/qwen3-coder-480b-a35b-instruct": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "Qwen/Qwen3-Coder-480B-A35B-Instruct"
   },
   "https://www.modelscope.cn/models/deepseek-ai/deepseek-v4.1-flash-1017": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017"
   },
   "title:deepseek-ai/deepseek-v4.1-flash-1017": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017"
   },
   "https://huggingface.co/spaces/hugging-apps/bfs-best-face-swap": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "hugging-apps/bfs-best-face-swap"
   },
   "title:hugging-apps/bfs-best-face-swap": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "hugging-apps/bfs-best-face-swap"
   },
   "https://huggingface.co/spaces/multimodalart/jev-decision-index": {
@@ -317,107 +317,107 @@
    "title": "multimodalart/jev-decision-index"
   },
   "https://www.modelscope.cn/models/zhipuai/chatglm3-6b": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "ZhipuAI/chatglm3-6b"
   },
   "title:zhipuai/chatglm3-6b": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "ZhipuAI/chatglm3-6b"
   },
   "https://www.modelscope.cn/models/qwen/qwen3.8-2.4t-a95b": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "Qwen/Qwen3.8-2.4T-A95B"
   },
   "title:qwen/qwen3.8-2.4t-a95b": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "Qwen/Qwen3.8-2.4T-A95B"
   },
   "https://www.modelscope.cn/models/iic/cosyvoice2-0.5b": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "iic/CosyVoice2-0.5B"
   },
   "title:iic/cosyvoice2-0.5b": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "iic/CosyVoice2-0.5B"
   },
   "https://www.modelscope.cn/models/deepseek-ai/deepseek-v4.1-flash": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "deepseek-ai/DeepSeek-V4.1-Flash"
   },
   "title:deepseek-ai/deepseek-v4.1-flash": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "deepseek-ai/DeepSeek-V4.1-Flash"
   },
   "https://www.modelscope.cn/models/qwen/qwen-7b-chat": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "Qwen/Qwen-7B-Chat"
   },
   "title:qwen/qwen-7b-chat": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "Qwen/Qwen-7B-Chat"
   },
   "https://www.modelscope.cn/models/iic/sensevoicesmall": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "iic/SenseVoiceSmall"
   },
   "title:iic/sensevoicesmall": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "iic/SenseVoiceSmall"
   },
   "https://www.modelscope.cn/models/comfy-org/minimax-h3": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "Comfy-Org/MiniMax-H3"
   },
   "title:comfy-org/minimax-h3": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "Comfy-Org/MiniMax-H3"
   },
   "https://www.modelscope.cn/models/qwen/qwen-image-2512": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "Qwen/Qwen-Image-2512"
   },
   "title:qwen/qwen-image-2512": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "Qwen/Qwen-Image-2512"
   },
   "https://huggingface.co/spaces/huggingface/moe-blogpost": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "huggingface/moe-blogpost"
   },
   "title:huggingface/moe-blogpost": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "huggingface/moe-blogpost"
   },
   "https://www.modelscope.cn/models/iic/text-to-video-synthesis": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "iic/text-to-video-synthesis"
   },
   "title:iic/text-to-video-synthesis": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "iic/text-to-video-synthesis"
   },
   "https://www.modelscope.cn/models/qwen/qwq-32b": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "Qwen/QwQ-32B"
   },
   "title:qwen/qwq-32b": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "Qwen/QwQ-32B"
   },
   "https://www.modelscope.cn/models/mailand/majicflus_v1": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "MAILAND/majicflus_v1"
   },
   "title:mailand/majicflus_v1": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "MAILAND/majicflus_v1"
   },
   "https://www.modelscope.cn/models/qwen/qwen-image-edit-2511": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "Qwen/Qwen-Image-Edit-2511"
   },
   "title:qwen/qwen-image-edit-2511": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "Qwen/Qwen-Image-Edit-2511"
   },
   "https://huggingface.co/nousresearch/arete-27b": {
@@ -429,67 +429,67 @@
    "title": "NousResearch/Arete-27B"
   },
   "https://www.modelscope.cn/models/iic/speech_paraformer-large-vad-punc_asr_nat-zh-cn-16k-common-vocab8404-pytorch": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "iic/speech_paraformer-large-vad-punc_asr_nat-zh-cn-16k-common-vocab8404-pytorch"
   },
   "title:iic/speech_paraformer-large-vad-punc_asr_nat-zh-cn-16k-common-vocab8404-pytorch": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "iic/speech_paraformer-large-vad-punc_asr_nat-zh-cn-16k-common-vocab8404-pytorch"
   },
   "https://www.modelscope.cn/models/deepseek-ai/deepseek-v4-pro": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "deepseek-ai/DeepSeek-V4-Pro"
   },
   "title:deepseek-ai/deepseek-v4-pro": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "deepseek-ai/DeepSeek-V4-Pro"
   },
   "https://www.modelscope.cn/models/deepseek-ai/deepseek-v4-flash-0731": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "deepseek-ai/DeepSeek-V4-Flash-0731"
   },
   "title:deepseek-ai/deepseek-v4-flash-0731": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "deepseek-ai/DeepSeek-V4-Flash-0731"
   },
   "https://www.modelscope.cn/models/iic/speech_paraformer-large_asr_nat-zh-cn-16k-common-vocab8404-pytorch": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "iic/speech_paraformer-large_asr_nat-zh-cn-16k-common-vocab8404-pytorch"
   },
   "title:iic/speech_paraformer-large_asr_nat-zh-cn-16k-common-vocab8404-pytorch": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "iic/speech_paraformer-large_asr_nat-zh-cn-16k-common-vocab8404-pytorch"
   },
   "https://www.modelscope.cn/models/tongyi-mai/z-image": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "Tongyi-MAI/Z-Image"
   },
   "title:tongyi-mai/z-image": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "Tongyi-MAI/Z-Image"
   },
   "https://www.modelscope.cn/models/qwen/qwen2.5-7b-instruct": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "Qwen/Qwen2.5-7B-Instruct"
   },
   "title:qwen/qwen2.5-7b-instruct": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "Qwen/Qwen2.5-7B-Instruct"
   },
   "https://www.modelscope.cn/models/krea/krea-2-turbo": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "krea/Krea-2-Turbo"
   },
   "title:krea/krea-2-turbo": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "krea/Krea-2-Turbo"
   },
   "https://www.modelscope.cn/models/qwen/qwen2.5-omni-7b": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "Qwen/Qwen2.5-Omni-7B"
   },
   "title:qwen/qwen2.5-omni-7b": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "Qwen/Qwen2.5-Omni-7B"
   },
   "https://www.modelscope.cn/models/qwen/qwen-image": {
@@ -509,11 +509,11 @@
    "title": "Comfy-Org/MiniMax-H3-Image"
   },
   "https://huggingface.co/higurashi-ai/haru-4b": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "higurashi-ai/Haru-4B"
   },
   "title:higurashi-ai/haru-4b": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "higurashi-ai/Haru-4B"
   },
   "https://huggingface.co/spaces/ast-1320/qwen-2511-plus-flux.2-klein": {
@@ -533,19 +533,19 @@
    "title": "thinkingmachines/Inkling-2-Small"
   },
   "https://huggingface.co/spaces/jcishere/wan2-2-i2v-v3": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "JCisHERE/wan2-2-i2v-v3"
   },
   "title:jcishere/wan2-2-i2v-v3": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "JCisHERE/wan2-2-i2v-v3"
   },
   "https://huggingface.co/spaces/joelniklaus/harness-leaderboard": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "joelniklaus/harness-leaderboard"
   },
   "title:joelniklaus/harness-leaderboard": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "joelniklaus/harness-leaderboard"
   },
   "https://huggingface.co/spaces/speridlabs/idol": {
@@ -553,11 +553,11 @@
    "title": "speridlabs/idol"
   },
   "https://huggingface.co/spaces/rdata92/ltx-2.3-10eros": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "rdata92/LTX-2.3-10Eros"
   },
   "title:rdata92/ltx-2.3-10eros": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "rdata92/LTX-2.3-10Eros"
   },
   "https://huggingface.co/spaces/prunaai/p-h3-image": {
@@ -585,7 +585,7 @@
    "title": "其实我个人也是比较偏向于使用国模的，但问题是"
   },
   "https://huggingface.co/spaces/minimaxai/minimax-h3-image": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "MiniMaxAI/minimax-h3-image"
   },
   "https://gitee.com/qiantongtech/qontology": {
@@ -941,187 +941,187 @@
    "title": "AI Assistant被\"隐藏\"了？别慌，IDEA 2026.3 这波是换了个脑子"
   },
   "https://github.com/nova-video-player/aos-avp": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "nova-video-player/aos-AVP"
   },
   "title:nova-video-player/aos-avp": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "nova-video-player/aos-AVP"
   },
   "https://github.com/yvoronoy/awesome-english": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "yvoronoy/awesome-english"
   },
   "title:yvoronoy/awesome-english": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "yvoronoy/awesome-english"
   },
   "https://github.com/isjiamu/gzh-design-skill": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "isjiamu/gzh-design-skill"
   },
   "title:isjiamu/gzh-design-skill": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "isjiamu/gzh-design-skill"
   },
   "https://github.com/kananinirav/aws-certified-cloud-practitioner-notes": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "kananinirav/AWS-Certified-Cloud-Practitioner-Notes"
   },
   "title:kananinirav/aws-certified-cloud-practitioner-notes": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "kananinirav/AWS-Certified-Cloud-Practitioner-Notes"
   },
   "https://github.com/github/choosealicense.com": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "github/choosealicense.com"
   },
   "title:github/choosealicense.com": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "github/choosealicense.com"
   },
   "https://github.com/hotheadhacker/awesome-selfhost-docker": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "hotheadhacker/awesome-selfhost-docker"
   },
   "title:hotheadhacker/awesome-selfhost-docker": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "hotheadhacker/awesome-selfhost-docker"
   },
   "https://github.com/mergisi/awesome-openclaw-agents": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "mergisi/awesome-openclaw-agents"
   },
   "title:mergisi/awesome-openclaw-agents": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "mergisi/awesome-openclaw-agents"
   },
   "https://github.com/xz/new.css": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "xz/new.css"
   },
   "title:xz/new.css": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "xz/new.css"
   },
   "https://github.com/byted-technologies/.github": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "byted-technologies/.github"
   },
   "title:byted-technologies/.github": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "byted-technologies/.github"
   },
   "https://github.com/hendricius/pizza-dough": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "hendricius/pizza-dough"
   },
   "title:hendricius/pizza-dough": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "hendricius/pizza-dough"
   },
   "https://github.com/dotnet-presentations/blazor-workshop": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "dotnet-presentations/blazor-workshop"
   },
   "title:dotnet-presentations/blazor-workshop": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "dotnet-presentations/blazor-workshop"
   },
   "https://github.com/tulios/json-viewer": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "tulios/json-viewer"
   },
   "title:tulios/json-viewer": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "tulios/json-viewer"
   },
   "https://github.com/029danio/fly": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "029danio/fly"
   },
   "title:029danio/fly": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "029danio/fly"
   },
   "https://github.com/vitalets/github-trending-repos": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "vitalets/github-trending-repos"
   },
   "title:vitalets/github-trending-repos": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "vitalets/github-trending-repos"
   },
   "https://github.com/awesome-mlss/awesome-mlss": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "awesome-mlss/awesome-mlss"
   },
   "title:awesome-mlss/awesome-mlss": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "awesome-mlss/awesome-mlss"
   },
   "https://github.com/cclank/lanshu-create-ai-presenter-video": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "cclank/lanshu-create-ai-presenter-video"
   },
   "title:cclank/lanshu-create-ai-presenter-video": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "cclank/lanshu-create-ai-presenter-video"
   },
   "https://github.com/cstate/cstate": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "cstate/cstate"
   },
   "title:cstate/cstate": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "cstate/cstate"
   },
   "https://github.com/imsai-sh/zhuzhiliao": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "imsai-sh/zhuzhiliao"
   },
   "title:imsai-sh/zhuzhiliao": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "imsai-sh/zhuzhiliao"
   },
   "https://github.com/zero-to-mastery/resources": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "zero-to-mastery/resources"
   },
   "title:zero-to-mastery/resources": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "zero-to-mastery/resources"
   },
   "https://github.com/sidex15/susfs4ksu-module": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "sidex15/susfs4ksu-module"
   },
   "title:sidex15/susfs4ksu-module": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "sidex15/susfs4ksu-module"
   },
   "https://github.com/poemmisty/cfdata-web": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "PoemMisty/CFData-WEB"
   },
   "title:poemmisty/cfdata-web": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "PoemMisty/CFData-WEB"
   },
   "https://github.com/asatarin/testing-distributed-systems": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "asatarin/testing-distributed-systems"
   },
   "title:asatarin/testing-distributed-systems": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "asatarin/testing-distributed-systems"
   },
   "https://github.com/eladnava/mailgen": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "eladnava/mailgen"
   },
   "title:eladnava/mailgen": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "eladnava/mailgen"
   },
   "https://github.com/antonmedv/textarea": {
@@ -1133,27 +1133,27 @@
    "title": "antonmedv/textarea"
   },
   "https://github.com/tesseract-ocr/tessdoc": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "tesseract-ocr/tessdoc"
   },
   "title:tesseract-ocr/tessdoc": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "tesseract-ocr/tessdoc"
   },
   "https://github.com/scotthmurray/d3-book": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "scotthmurray/d3-book"
   },
   "title:scotthmurray/d3-book": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "scotthmurray/d3-book"
   },
   "https://github.com/anran-world/anranawsl": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "anran-world/Anranawsl"
   },
   "title:anran-world/anranawsl": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "anran-world/Anranawsl"
   },
   "https://github.com/sglfree/freesky": {
@@ -1173,11 +1173,11 @@
    "title": "wenzhixin/bootstrap-table-examples"
   },
   "https://github.com/elementalsouls/claude-bughunter": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "elementalsouls/Claude-BugHunter"
   },
   "title:elementalsouls/claude-bughunter": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "elementalsouls/Claude-BugHunter"
   },
   "https://www.v2ex.com/t/1257575": {
@@ -1189,11 +1189,11 @@
    "title": "玩了发现恋物癖越来越严重了咋办"
   },
   "https://huggingface.co/spaces/amisima/qwen-2.1-turbo-qwen-face-swap-moss-image-edit-outpaint-qwen-detail-enhancer": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "amisima/Qwen-2.1-Turbo-Qwen-Face-Swap-MOSS-Image-Edit-Outpaint-Qwen-Detail-Enhancer"
   },
   "title:amisima/qwen-2.1-turbo-qwen-face-swap-moss-image-edit-outpaint-qwen-detail-enhancer": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "amisima/Qwen-2.1-Turbo-Qwen-Face-Swap-MOSS-Image-Edit-Outpaint-Qwen-Detail-Enhancer"
   },
   "https://www.v2ex.com/t/1257569": {
@@ -1277,11 +1277,11 @@
    "title": "用 AI 给娃做了一个识物游戏：一份 2.3MB 的单文件 HTML，126 张卡片、三种玩法，手机平板打开就能玩"
   },
   "https://github.com/obra/superpowers": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "obra/superpowers"
   },
   "title:obra/superpowers": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "obra/superpowers"
   },
   "https://github.com/affaan-m/ecc": {
@@ -1293,19 +1293,19 @@
    "title": "affaan-m/ECC"
   },
   "https://github.com/jingyaogong/minimind": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "jingyaogong/minimind"
   },
   "title:jingyaogong/minimind": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "jingyaogong/minimind"
   },
   "https://github.com/cursor/plugins": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "cursor/plugins"
   },
   "title:cursor/plugins": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "cursor/plugins"
   },
   "https://github.com/tencent/loopforge": {
@@ -1317,19 +1317,19 @@
    "title": "Tencent/LoopForge"
   },
   "https://huggingface.co/spaces/microsoft/trellis.2": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "microsoft/TRELLIS.2"
   },
   "title:microsoft/trellis.2": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "microsoft/TRELLIS.2"
   },
   "https://huggingface.co/chatrlabs/qwen-image-2.1-uncensored-omni-quantized": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized"
   },
   "title:chatrlabs/qwen-image-2.1-uncensored-omni-quantized": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized"
   },
   "https://www.v2ex.com/t/1257707": {
@@ -1357,11 +1357,11 @@
    "title": "meituan-longcat/LongCat-Video-Avatar-1.6"
   },
   "https://huggingface.co/sensenova/sensenova-loop-9b": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "sensenova/SenseNova-Loop-9B"
   },
   "title:sensenova/sensenova-loop-9b": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "sensenova/SenseNova-Loop-9B"
   },
   "https://www.v2ex.com/t/1257733": {
@@ -1413,11 +1413,11 @@
    "title": "因为不“冲刺”被“约谈”了"
   },
   "https://huggingface.co/spaces/waitinghere/krea2t-revamped": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "waitinghere/Krea2T-Revamped"
   },
   "title:waitinghere/krea2t-revamped": {
-   "date": "2026-11-17",
+   "date": "2026-11-24",
    "title": "waitinghere/Krea2T-Revamped"
   },
   "https://juejin.cn/post/7708954185542172710": {
@@ -3467,6 +3467,182 @@
   "title:go：用装饰器给通知发送加上日志": {
    "date": "2026-11-23",
    "title": "Go：用装饰器给通知发送加上日志"
+  },
+  "https://www.v2ex.com/t/1259332": {
+   "date": "2026-11-24",
+   "title": "北京 35+前端失业一个月心态崩了，想去干转转上门回收，月入过万靠谱吗？"
+  },
+  "title:北京35+前端失业一个月心态崩了，想去干转转上门回收，月入过万靠谱吗？": {
+   "date": "2026-11-24",
+   "title": "北京 35+前端失业一个月心态崩了，想去干转转上门回收，月入过万靠谱吗？"
+  },
+  "https://juejin.cn/post/7711308296166129698": {
+   "date": "2026-11-24",
+   "title": "前端转全栈，要学会后端看项目的思维"
+  },
+  "title:前端转全栈，要学会后端看项目的思维": {
+   "date": "2026-11-24",
+   "title": "前端转全栈，要学会后端看项目的思维"
+  },
+  "https://www.modelscope.cn/models/qwen/qwen-image-2.1-turbo": {
+   "date": "2026-11-24",
+   "title": "Qwen/Qwen-Image-2.1-Turbo"
+  },
+  "title:qwen/qwen-image-2.1-turbo": {
+   "date": "2026-11-24",
+   "title": "Qwen/Qwen-Image-2.1-Turbo"
+  },
+  "https://gitee.com/le5le/meta2d.js": {
+   "date": "2026-11-24",
+   "title": "武汉乐吾乐科技有限责任公司/meta2d.js"
+  },
+  "title:武汉乐吾乐科技有限责任公司/meta2d.js": {
+   "date": "2026-11-24",
+   "title": "武汉乐吾乐科技有限责任公司/meta2d.js"
+  },
+  "https://huggingface.co/spaces/wank3r/minimax-h3": {
+   "date": "2026-11-24",
+   "title": "wank3r/minimax-h3"
+  },
+  "title:wank3r/minimax-h3": {
+   "date": "2026-11-24",
+   "title": "wank3r/minimax-h3"
+  },
+  "https://huggingface.co/inclusionai/ling-3.2-air": {
+   "date": "2026-11-24",
+   "title": "inclusionAI/Ling-3.2-air"
+  },
+  "title:inclusionai/ling-3.2-air": {
+   "date": "2026-11-24",
+   "title": "inclusionAI/Ling-3.2-air"
+  },
+  "https://www.v2ex.com/t/1259458": {
+   "date": "2026-11-24",
+   "title": "养猫两个月，我和猫的关系却越来越糟"
+  },
+  "title:养猫两个月，我和猫的关系却越来越糟": {
+   "date": "2026-11-24",
+   "title": "养猫两个月，我和猫的关系却越来越糟"
+  },
+  "https://www.v2ex.com/t/1259301": {
+   "date": "2026-11-24",
+   "title": "2026 年我的常用 Mac 软件分享"
+  },
+  "title:2026年我的常用mac软件分享": {
+   "date": "2026-11-24",
+   "title": "2026 年我的常用 Mac 软件分享"
+  },
+  "https://www.v2ex.com/t/1259265": {
+   "date": "2026-11-24",
+   "title": "黄仁勋又重新回到了他的英伟达，服了，把全世界当猴耍"
+  },
+  "title:黄仁勋又重新回到了他的英伟达，服了，把全世界当猴耍": {
+   "date": "2026-11-24",
+   "title": "黄仁勋又重新回到了他的英伟达，服了，把全世界当猴耍"
+  },
+  "https://www.v2ex.com/t/1259304": {
+   "date": "2026-11-24",
+   "title": "小时候背的诗，长大了才懂。"
+  },
+  "title:小时候背的诗，长大了才懂。": {
+   "date": "2026-11-24",
+   "title": "小时候背的诗，长大了才懂。"
+  },
+  "https://www.v2ex.com/t/1259299": {
+   "date": "2026-11-24",
+   "title": "仁勋这招叫做以退为进吗？"
+  },
+  "title:仁勋这招叫做以退为进吗？": {
+   "date": "2026-11-24",
+   "title": "仁勋这招叫做以退为进吗？"
+  },
+  "https://www.v2ex.com/t/1259329": {
+   "date": "2026-11-24",
+   "title": "体验到了被崩老头的快乐"
+  },
+  "title:体验到了被崩老头的快乐": {
+   "date": "2026-11-24",
+   "title": "体验到了被崩老头的快乐"
+  },
+  "https://gitee.com/luckypools/luck-report-server": {
+   "date": "2026-11-24",
+   "title": "LuckyPools/luck-report-server"
+  },
+  "title:luckypools/luck-report-server": {
+   "date": "2026-11-24",
+   "title": "LuckyPools/luck-report-server"
+  },
+  "https://www.v2ex.com/t/1259296": {
+   "date": "2026-11-24",
+   "title": "Apple ID 刚刚被盗刷了！"
+  },
+  "title:appleid刚刚被盗刷了！": {
+   "date": "2026-11-24",
+   "title": "Apple ID 刚刚被盗刷了！"
+  },
+  "https://www.v2ex.com/t/1259373": {
+   "date": "2026-11-24",
+   "title": "戴了十几年眼镜，想做近视手术，想听听做过的 v 友的真实体验"
+  },
+  "title:戴了十几年眼镜，想做近视手术，想听听做过的v友的真实体验": {
+   "date": "2026-11-24",
+   "title": "戴了十几年眼镜，想做近视手术，想听听做过的 v 友的真实体验"
+  },
+  "https://www.v2ex.com/t/1259411": {
+   "date": "2026-11-24",
+   "title": "有多少人通过 AI 赚到工作以外额外的钱了？"
+  },
+  "title:有多少人通过ai赚到工作以外额外的钱了？": {
+   "date": "2026-11-24",
+   "title": "有多少人通过 AI 赚到工作以外额外的钱了？"
+  },
+  "https://juejin.cn/post/7711248788610727945": {
+   "date": "2026-11-24",
+   "title": "四年前从大厂裸辞到进山修行， 我找到了另一个方向的版本答案。"
+  },
+  "title:四年前从大厂裸辞到进山修行，我找到了另一个方向的版本答案。": {
+   "date": "2026-11-24",
+   "title": "四年前从大厂裸辞到进山修行， 我找到了另一个方向的版本答案。"
+  },
+  "https://juejin.cn/post/7711333263998976015": {
+   "date": "2026-11-24",
+   "title": "面了 30 家公司拿到 2 个 Offer!"
+  },
+  "title:面了30家公司拿到2个offer!": {
+   "date": "2026-11-24",
+   "title": "面了 30 家公司拿到 2 个 Offer!"
+  },
+  "https://juejin.cn/post/7710901773549486107": {
+   "date": "2026-11-24",
+   "title": "2 个 Skill，帮你去除文档和网页中的 “AI 味”"
+  },
+  "title:2个skill，帮你去除文档和网页中的“ai味”": {
+   "date": "2026-11-24",
+   "title": "2 个 Skill，帮你去除文档和网页中的 “AI 味”"
+  },
+  "https://juejin.cn/post/7711258065815420964": {
+   "date": "2026-11-24",
+   "title": "系统崩了，一屋子人在等 AI 出方案"
+  },
+  "title:系统崩了，一屋子人在等ai出方案": {
+   "date": "2026-11-24",
+   "title": "系统崩了，一屋子人在等 AI 出方案"
+  },
+  "https://juejin.cn/post/7711164513240612864": {
+   "date": "2026-11-24",
+   "title": "Agent开发工程师-学习大纲"
+  },
+  "title:agent开发工程师-学习大纲": {
+   "date": "2026-11-24",
+   "title": "Agent开发工程师-学习大纲"
+  },
+  "https://juejin.cn/post/7710905800151744562": {
+   "date": "2026-11-24",
+   "title": "SVG 里的动画，到底是谁在播？"
+  },
+  "title:svg里的动画，到底是谁在播？": {
+   "date": "2026-11-24",
+   "title": "SVG 里的动画，到底是谁在播？"
   }
  }
 }
