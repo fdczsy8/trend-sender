@@ -1157,19 +1157,19 @@
    "title": "anran-world/Anranawsl"
   },
   "https://github.com/sglfree/freesky": {
-   "date": "2026-11-17",
+   "date": "2026-11-25",
    "title": "sglfree/freesky"
   },
   "title:sglfree/freesky": {
-   "date": "2026-11-17",
+   "date": "2026-11-25",
    "title": "sglfree/freesky"
   },
   "https://github.com/wenzhixin/bootstrap-table-examples": {
-   "date": "2026-11-17",
+   "date": "2026-11-25",
    "title": "wenzhixin/bootstrap-table-examples"
   },
   "title:wenzhixin/bootstrap-table-examples": {
-   "date": "2026-11-17",
+   "date": "2026-11-25",
    "title": "wenzhixin/bootstrap-table-examples"
   },
   "https://github.com/elementalsouls/claude-bughunter": {
@@ -1525,11 +1525,11 @@
    "title": "深入 Pi 源码：一个优秀的 Agent，是如何管理上下文的？"
   },
   "https://huggingface.co/harness-hub/qwen3.8-27b-pi-adapted": {
-   "date": "2026-11-18",
+   "date": "2026-11-25",
    "title": "harness-hub/Qwen3.8-27B-pi-adapted"
   },
   "title:harness-hub/qwen3.8-27b-pi-adapted": {
-   "date": "2026-11-18",
+   "date": "2026-11-25",
    "title": "harness-hub/Qwen3.8-27B-pi-adapted"
   },
   "https://huggingface.co/spaces/guaryn/qwen-image-2.1-uncensored-aio-loras": {
@@ -1645,11 +1645,11 @@
    "title": "开源！我们用知识图谱重构了电子档案，AI 驱动全文智能关联"
   },
   "https://github.com/mustache/mustache.github.com": {
-   "date": "2026-11-18",
+   "date": "2026-11-25",
    "title": "mustache/mustache.github.com"
   },
   "title:mustache/mustache.github.com": {
-   "date": "2026-11-18",
+   "date": "2026-11-25",
    "title": "mustache/mustache.github.com"
   },
   "https://github.com/n8n-io/n8n": {
@@ -1693,11 +1693,11 @@
    "title": "jquery/jquery"
   },
   "https://github.com/hkuds/cli-anything": {
-   "date": "2026-11-18",
+   "date": "2026-11-25",
    "title": "HKUDS/CLI-Anything"
   },
   "title:hkuds/cli-anything": {
-   "date": "2026-11-18",
+   "date": "2026-11-25",
    "title": "HKUDS/CLI-Anything"
   },
   "https://github.com/appwrite/appwrite": {
@@ -1717,19 +1717,19 @@
    "title": "solidjs/solid"
   },
   "https://github.com/openvinotoolkit/openvino": {
-   "date": "2026-11-18",
+   "date": "2026-11-25",
    "title": "openvinotoolkit/openvino"
   },
   "title:openvinotoolkit/openvino": {
-   "date": "2026-11-18",
+   "date": "2026-11-25",
    "title": "openvinotoolkit/openvino"
   },
   "https://huggingface.co/tencent/hy4-flash": {
-   "date": "2026-11-18",
+   "date": "2026-11-25",
    "title": "tencent/Hy4-flash"
   },
   "title:tencent/hy4-flash": {
-   "date": "2026-11-18",
+   "date": "2026-11-25",
    "title": "tencent/Hy4-flash"
   },
   "https://www.v2ex.com/t/1258010": {
@@ -1773,11 +1773,11 @@
    "title": "成都和重庆那个好玩呢？"
   },
   "https://huggingface.co/spaces/cfahlgren1/slack-moji": {
-   "date": "2026-11-18",
+   "date": "2026-11-25",
    "title": "cfahlgren1/slack-moji"
   },
   "title:cfahlgren1/slack-moji": {
-   "date": "2026-11-18",
+   "date": "2026-11-25",
    "title": "cfahlgren1/slack-moji"
   },
   "https://juejin.cn/post/7709318936996298790": {
@@ -3723,6 +3723,134 @@
   "title:刚开始用workbuddy，第一步该做什么？": {
    "date": "2026-11-24",
    "title": "刚开始用 WorkBuddy，第一步该做什么？"
+  },
+  "https://www.v2ex.com/t/1259596": {
+   "date": "2026-11-25",
+   "title": "都说前端完了，但是招个人也太难了"
+  },
+  "title:都说前端完了，但是招个人也太难了": {
+   "date": "2026-11-25",
+   "title": "都说前端完了，但是招个人也太难了"
+  },
+  "https://juejin.cn/post/7711319812090560566": {
+   "date": "2026-11-25",
+   "title": "用了三年微前端，我们终于把它拆成了单体应用"
+  },
+  "title:用了三年微前端，我们终于把它拆成了单体应用": {
+   "date": "2026-11-25",
+   "title": "用了三年微前端，我们终于把它拆成了单体应用"
+  },
+  "https://huggingface.co/prism-ml/ternary-bonsai-2.5-27b-gguf": {
+   "date": "2026-11-25",
+   "title": "prism-ml/Ternary-Bonsai-2.5-27B-GGUF"
+  },
+  "title:prism-ml/ternary-bonsai-2.5-27b-gguf": {
+   "date": "2026-11-25",
+   "title": "prism-ml/Ternary-Bonsai-2.5-27B-GGUF"
+  },
+  "https://www.v2ex.com/t/1259612": {
+   "date": "2026-11-25",
+   "title": "理发怎么能那么贵！"
+  },
+  "title:理发怎么能那么贵！": {
+   "date": "2026-11-25",
+   "title": "理发怎么能那么贵！"
+  },
+  "https://www.v2ex.com/t/1259639": {
+   "date": "2026-11-25",
+   "title": "我知道你几岁"
+  },
+  "title:我知道你几岁": {
+   "date": "2026-11-25",
+   "title": "我知道你几岁"
+  },
+  "https://www.v2ex.com/t/1259613": {
+   "date": "2026-11-25",
+   "title": "大家怎么第一次面对亲人的离去？"
+  },
+  "title:大家怎么第一次面对亲人的离去？": {
+   "date": "2026-11-25",
+   "title": "大家怎么第一次面对亲人的离去？"
+  },
+  "https://huggingface.co/spaces/xyzanonimous5/qwen-image-2.1-studio": {
+   "date": "2026-11-25",
+   "title": "xyzanonimous5/Qwen-Image-2.1-Studio"
+  },
+  "title:xyzanonimous5/qwen-image-2.1-studio": {
+   "date": "2026-11-25",
+   "title": "xyzanonimous5/Qwen-Image-2.1-Studio"
+  },
+  "https://www.v2ex.com/t/1259605": {
+   "date": "2026-11-25",
+   "title": "密码管理很少见到大家用苹果自带的 passwords"
+  },
+  "title:密码管理很少见到大家用苹果自带的passwords": {
+   "date": "2026-11-25",
+   "title": "密码管理很少见到大家用苹果自带的 passwords"
+  },
+  "https://www.v2ex.com/t/1259652": {
+   "date": "2026-11-25",
+   "title": "请问大家追求的是什么样的生活呢？"
+  },
+  "title:请问大家追求的是什么样的生活呢？": {
+   "date": "2026-11-25",
+   "title": "请问大家追求的是什么样的生活呢？"
+  },
+  "https://www.v2ex.com/t/1259591": {
+   "date": "2026-11-25",
+   "title": "有没有佬给孩子指条明路"
+  },
+  "title:有没有佬给孩子指条明路": {
+   "date": "2026-11-25",
+   "title": "有没有佬给孩子指条明路"
+  },
+  "https://www.v2ex.com/t/1259637": {
+   "date": "2026-11-25",
+   "title": "凌晨 2 点起来改 bug，有点崩溃"
+  },
+  "title:凌晨2点起来改bug，有点崩溃": {
+   "date": "2026-11-25",
+   "title": "凌晨 2 点起来改 bug，有点崩溃"
+  },
+  "https://www.v2ex.com/t/1259601": {
+   "date": "2026-11-25",
+   "title": "Gemini AI Pro 黑五优惠怎么获得？"
+  },
+  "title:geminiaipro黑五优惠怎么获得？": {
+   "date": "2026-11-25",
+   "title": "Gemini AI Pro 黑五优惠怎么获得？"
+  },
+  "https://gitee.com/withthesea/ai-diy-video": {
+   "date": "2026-11-25",
+   "title": "与山与海与风与人间/镜语 JingYu"
+  },
+  "title:与山与海与风与人间/镜语jingyu": {
+   "date": "2026-11-25",
+   "title": "与山与海与风与人间/镜语 JingYu"
+  },
+  "https://juejin.cn/post/7711270361384222760": {
+   "date": "2026-11-25",
+   "title": "一年一次黑五，为了买软件真省钱，我做了个开源小站"
+  },
+  "title:一年一次黑五，为了买软件真省钱，我做了个开源小站": {
+   "date": "2026-11-25",
+   "title": "一年一次黑五，为了买软件真省钱，我做了个开源小站"
+  },
+  "https://juejin.cn/post/7711259760092315657": {
+   "date": "2026-11-25",
+   "title": "又一款数据库同步神器，2.3K Star的dbswitch"
+  },
+  "title:又一款数据库同步神器，2.3kstar的dbswitch": {
+   "date": "2026-11-25",
+   "title": "又一款数据库同步神器，2.3K Star的dbswitch"
+  },
+  "https://juejin.cn/post/7711305356505399350": {
+   "date": "2026-11-25",
+   "title": "Android Keep Rules 解读，直接影响 Google Play 上架和曝光"
+  },
+  "title:androidkeeprules解读，直接影响googleplay上架和曝光": {
+   "date": "2026-11-25",
+   "title": "Android Keep Rules 解读，直接影响 Google Play 上架和曝光"
   }
  }
 }
