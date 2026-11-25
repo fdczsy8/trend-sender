@@ -493,11 +493,11 @@
    "title": "Qwen/Qwen2.5-Omni-7B"
   },
   "https://www.modelscope.cn/models/qwen/qwen-image": {
-   "date": "2026-11-17",
+   "date": "2026-11-25",
    "title": "Qwen/Qwen-Image"
   },
   "title:qwen/qwen-image": {
-   "date": "2026-11-17",
+   "date": "2026-11-25",
    "title": "Qwen/Qwen-Image"
   },
   "https://huggingface.co/comfy-org/minimax-h3-image": {
@@ -1533,11 +1533,11 @@
    "title": "harness-hub/Qwen3.8-27B-pi-adapted"
   },
   "https://huggingface.co/spaces/guaryn/qwen-image-2.1-uncensored-aio-loras": {
-   "date": "2026-11-18",
+   "date": "2026-11-25",
    "title": "Guaryn/qwen-image-2.1-uncensored-aio-loras"
   },
   "title:guaryn/qwen-image-2.1-uncensored-aio-loras": {
-   "date": "2026-11-18",
+   "date": "2026-11-25",
    "title": "Guaryn/qwen-image-2.1-uncensored-aio-loras"
   },
   "https://www.v2ex.com/t/1257906": {
@@ -3851,6 +3851,102 @@
   "title:androidkeeprules解读，直接影响googleplay上架和曝光": {
    "date": "2026-11-25",
    "title": "Android Keep Rules 解读，直接影响 Google Play 上架和曝光"
+  },
+  "https://juejin.cn/post/7711260888724291620": {
+   "date": "2026-11-25",
+   "title": "前端转 Java 全栈：用 AI 两天交付一个能跑的 Demo，踩坑全记录"
+  },
+  "title:前端转java全栈：用ai两天交付一个能跑的demo，踩坑全记录": {
+   "date": "2026-11-25",
+   "title": "前端转 Java 全栈：用 AI 两天交付一个能跑的 Demo，踩坑全记录"
+  },
+  "https://juejin.cn/post/7710865418698522666": {
+   "date": "2026-11-25",
+   "title": "Day 21｜前端转全栈第 21 天：不用写 XML 了，配置只剩一个 yml"
+  },
+  "title:day21｜前端转全栈第21天：不用写xml了，配置只剩一个yml": {
+   "date": "2026-11-25",
+   "title": "Day 21｜前端转全栈第 21 天：不用写 XML 了，配置只剩一个 yml"
+  },
+  "https://juejin.cn/post/7711051982841249827": {
+   "date": "2026-11-25",
+   "title": "前端小游戏有 25000+ 答案，如何避免一次性加载全部数据？"
+  },
+  "title:前端小游戏有25000+答案，如何避免一次性加载全部数据？": {
+   "date": "2026-11-25",
+   "title": "前端小游戏有 25000+ 答案，如何避免一次性加载全部数据？"
+  },
+  "https://huggingface.co/inclusionai/lingsante-3.1-flash": {
+   "date": "2026-11-25",
+   "title": "inclusionAI/LingSante-3.1-flash"
+  },
+  "title:inclusionai/lingsante-3.1-flash": {
+   "date": "2026-11-25",
+   "title": "inclusionAI/LingSante-3.1-flash"
+  },
+  "https://www.v2ex.com/t/1259642": {
+   "date": "2026-11-25",
+   "title": "Mac 原生监控软件 Ebb 更新了磁盘清理和一波优化，再抽 10 个激活码"
+  },
+  "title:mac原生监控软件ebb更新了磁盘清理和一波优化，再抽10个激活码": {
+   "date": "2026-11-25",
+   "title": "Mac 原生监控软件 Ebb 更新了磁盘清理和一波优化，再抽 10 个激活码"
+  },
+  "https://huggingface.co/spaces/waitinghere/minimax-h3-ref2va-revamped": {
+   "date": "2026-11-25",
+   "title": "waitinghere/MINIMAX-H3-Ref2VA-Revamped"
+  },
+  "title:waitinghere/minimax-h3-ref2va-revamped": {
+   "date": "2026-11-25",
+   "title": "waitinghere/MINIMAX-H3-Ref2VA-Revamped"
+  },
+  "https://juejin.cn/post/7711645731820011535": {
+   "date": "2026-11-25",
+   "title": "AI 帮我写了大半年的代码，我却越来越不会写代码了"
+  },
+  "title:ai帮我写了大半年的代码，我却越来越不会写代码了": {
+   "date": "2026-11-25",
+   "title": "AI 帮我写了大半年的代码，我却越来越不会写代码了"
+  },
+  "https://juejin.cn/post/7711658681012174883": {
+   "date": "2026-11-25",
+   "title": "写 UI 自动化的同学，这个 2.3万 Star 的自动化Agent 让浏览器自己测试！"
+  },
+  "title:写ui自动化的同学，这个2.3万star的自动化agent让浏览器自己测试！": {
+   "date": "2026-11-25",
+   "title": "写 UI 自动化的同学，这个 2.3万 Star 的自动化Agent 让浏览器自己测试！"
+  },
+  "https://juejin.cn/post/7711527711516950564": {
+   "date": "2026-11-25",
+   "title": "15 个可以直接安装的 AI Agent Skills：按场景挑"
+  },
+  "title:15个可以直接安装的aiagentskills：按场景挑": {
+   "date": "2026-11-25",
+   "title": "15 个可以直接安装的 AI Agent Skills：按场景挑"
+  },
+  "https://juejin.cn/post/7711253113009815578": {
+   "date": "2026-11-25",
+   "title": "强制升级 Xcode 后，一个 10 年老项目有哪些改动点"
+  },
+  "title:强制升级xcode后，一个10年老项目有哪些改动点": {
+   "date": "2026-11-25",
+   "title": "强制升级 Xcode 后，一个 10 年老项目有哪些改动点"
+  },
+  "https://juejin.cn/post/7710853195053350947": {
+   "date": "2026-11-25",
+   "title": "概率性计算的系统工程：从 Super-agent 与 Octop 看多 Agent 架构的收敛"
+  },
+  "title:概率性计算的系统工程：从super-agent与octop看多agent架构的收敛": {
+   "date": "2026-11-25",
+   "title": "概率性计算的系统工程：从 Super-agent 与 Octop 看多 Agent 架构的收敛"
+  },
+  "https://juejin.cn/post/7710761549636665379": {
+   "date": "2026-11-25",
+   "title": "LoopForge：把团队的交付经验变成可执行的工程资产"
+  },
+  "title:loopforge：把团队的交付经验变成可执行的工程资产": {
+   "date": "2026-11-25",
+   "title": "LoopForge：把团队的交付经验变成可执行的工程资产"
   }
  }
 }
