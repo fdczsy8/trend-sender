@@ -4171,6 +4171,142 @@
   "title:nvidia全产品谱系与演进": {
    "date": "2026-11-26",
    "title": "NVIDIA 全产品谱系与演进"
+  },
+  "https://www.v2ex.com/t/1259974": {
+   "date": "2026-11-26",
+   "title": "30 岁，专科，10 年前端，有几个 offer，请各位帮忙参考下。"
+  },
+  "title:30岁，专科，10年前端，有几个offer，请各位帮忙参考下。": {
+   "date": "2026-11-26",
+   "title": "30 岁，专科，10 年前端，有几个 offer，请各位帮忙参考下。"
+  },
+  "https://juejin.cn/post/7712021656399462415": {
+   "date": "2026-11-26",
+   "title": "实测 10 个前端 UI 生成开源 Skill｜AI 输出直达上线标准"
+  },
+  "title:实测10个前端ui生成开源skill｜ai输出直达上线标准": {
+   "date": "2026-11-26",
+   "title": "实测 10 个前端 UI 生成开源 Skill｜AI 输出直达上线标准"
+  },
+  "https://huggingface.co/strata-engine/inkling-2-mini-strata": {
+   "date": "2026-11-26",
+   "title": "strata-engine/Inkling-2-Mini-Strata"
+  },
+  "title:strata-engine/inkling-2-mini-strata": {
+   "date": "2026-11-26",
+   "title": "strata-engine/Inkling-2-Mini-Strata"
+  },
+  "https://www.v2ex.com/t/1260059": {
+   "date": "2026-11-26",
+   "title": "2026 赣南脐橙给 v 友抽几箱"
+  },
+  "title:2026赣南脐橙给v友抽几箱": {
+   "date": "2026-11-26",
+   "title": "2026 赣南脐橙给 v 友抽几箱"
+  },
+  "https://www.v2ex.com/t/1259897": {
+   "date": "2026-11-26",
+   "title": "一个完全用 AI coding 开发的数据库 MyDB：兼容 MySQL，性能提升 5 倍以上，累计消耗 5000 亿 token"
+  },
+  "title:一个完全用aicoding开发的数据库mydb：兼容mysql，性能提升5倍以上，累计消耗5000亿token": {
+   "date": "2026-11-26",
+   "title": "一个完全用 AI coding 开发的数据库 MyDB：兼容 MySQL，性能提升 5 倍以上，累计消耗 5000 亿 token"
+  },
+  "https://huggingface.co/spaces/huggingfaceswarms/scaling-swarms": {
+   "date": "2026-11-26",
+   "title": "HuggingFaceSwarms/scaling-swarms"
+  },
+  "title:huggingfaceswarms/scaling-swarms": {
+   "date": "2026-11-26",
+   "title": "HuggingFaceSwarms/scaling-swarms"
+  },
+  "https://gitee.com/chenfengloveyuri/omnioperator": {
+   "date": "2026-11-26",
+   "title": "尘风/OmniOperator"
+  },
+  "title:尘风/omnioperator": {
+   "date": "2026-11-26",
+   "title": "尘风/OmniOperator"
+  },
+  "https://juejin.cn/post/7712359514976731177": {
+   "date": "2026-11-26",
+   "title": "年终总结，这可能是程序员最后一个冬天了"
+  },
+  "title:年终总结，这可能是程序员最后一个冬天了": {
+   "date": "2026-11-26",
+   "title": "年终总结，这可能是程序员最后一个冬天了"
+  },
+  "https://juejin.cn/post/7712021656399675407": {
+   "date": "2026-11-26",
+   "title": "大模型蒸馏到底在蒸什么？一篇文章搞懂知识蒸馏概念"
+  },
+  "title:大模型蒸馏到底在蒸什么？一篇文章搞懂知识蒸馏概念": {
+   "date": "2026-11-26",
+   "title": "大模型蒸馏到底在蒸什么？一篇文章搞懂知识蒸馏概念"
+  },
+  "https://juejin.cn/post/7712021656399134735": {
+   "date": "2026-11-26",
+   "title": "当 Claude 开始反对蒸馏，我想起了那 700 万份盗版书籍"
+  },
+  "title:当claude开始反对蒸馏，我想起了那700万份盗版书籍": {
+   "date": "2026-11-26",
+   "title": "当 Claude 开始反对蒸馏，我想起了那 700 万份盗版书籍"
+  },
+  "https://juejin.cn/post/7711755205218926634": {
+   "date": "2026-11-26",
+   "title": "一个 FDE 怎么干过一个项目组"
+  },
+  "title:一个fde怎么干过一个项目组": {
+   "date": "2026-11-26",
+   "title": "一个 FDE 怎么干过一个项目组"
+  },
+  "https://juejin.cn/post/7712027193627803658": {
+   "date": "2026-11-26",
+   "title": "GLM-5.4 到了什么水平？和 Kimi、DeepSeek、GPT 放在一起看"
+  },
+  "title:glm-5.4到了什么水平？和kimi、deepseek、gpt放在一起看": {
+   "date": "2026-11-26",
+   "title": "GLM-5.4 到了什么水平？和 Kimi、DeepSeek、GPT 放在一起看"
+  },
+  "https://juejin.cn/post/7711753972730789922": {
+   "date": "2026-11-26",
+   "title": "Gemini 4 很顺手，但 agy CLI 看不见上下文和额度，我做了个开源状态栏"
+  },
+  "title:gemini4很顺手，但agycli看不见上下文和额度，我做了个开源状态栏": {
+   "date": "2026-11-26",
+   "title": "Gemini 4 很顺手，但 agy CLI 看不见上下文和额度，我做了个开源状态栏"
+  },
+  "https://juejin.cn/post/7712084377979093033": {
+   "date": "2026-11-26",
+   "title": "Spring AI 还是 LangChain4j？2026 年 Java 接入大模型，我把这笔「架构赌注」的账算清楚了"
+  },
+  "title:springai还是langchain4j？2026年java接入大模型，我把这笔「架构赌注」的账算清楚了": {
+   "date": "2026-11-26",
+   "title": "Spring AI 还是 LangChain4j？2026 年 Java 接入大模型，我把这笔「架构赌注」的账算清楚了"
+  },
+  "https://juejin.cn/post/7711707345664049195": {
+   "date": "2026-11-26",
+   "title": "Flutter Perfetto：Dart Heap Sampling 终于要接入 Android 原生内存分析了"
+  },
+  "title:flutterperfetto：dartheapsampling终于要接入android原生内存分析了": {
+   "date": "2026-11-26",
+   "title": "Flutter Perfetto：Dart Heap Sampling 终于要接入 Android 原生内存分析了"
+  },
+  "https://juejin.cn/post/7711541606445023267": {
+   "date": "2026-11-26",
+   "title": "一次 hover 卡顿排查：别在 :hover 里改布局属性"
+  },
+  "title:一次hover卡顿排查：别在:hover里改布局属性": {
+   "date": "2026-11-26",
+   "title": "一次 hover 卡顿排查：别在 :hover 里改布局属性"
+  },
+  "https://juejin.cn/post/7711346486676144155": {
+   "date": "2026-11-26",
+   "title": "从零手搓 RAG：用 Elasticsearch 存储与检索向量"
+  },
+  "title:从零手搓rag：用elasticsearch存储与检索向量": {
+   "date": "2026-11-26",
+   "title": "从零手搓 RAG：用 Elasticsearch 存储与检索向量"
   }
  }
 }
