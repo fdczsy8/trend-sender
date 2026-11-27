@@ -2229,11 +2229,11 @@
    "title": "不是，鸽们，你 6"
   },
   "https://huggingface.co/spaces/lakonik/pi-h3": {
-   "date": "2026-11-20",
+   "date": "2026-11-27",
    "title": "Lakonik/pi-H3"
   },
   "title:lakonik/pi-h3": {
-   "date": "2026-11-20",
+   "date": "2026-11-27",
    "title": "Lakonik/pi-H3"
   },
   "https://juejin.cn/post/7709679151842246697": {
@@ -2293,11 +2293,11 @@
    "title": "GitHub Actions 快速入门+场景实践案例"
   },
   "https://github.com/rootmytv/rootmytv.github.io": {
-   "date": "2026-11-20",
+   "date": "2026-11-27",
    "title": "RootMyTV/RootMyTV.github.io"
   },
   "title:rootmytv/rootmytv.github.io": {
-   "date": "2026-11-20",
+   "date": "2026-11-27",
    "title": "RootMyTV/RootMyTV.github.io"
   },
   "https://huggingface.co/spaces/agent-memory-leaderboard/leaderboard": {
@@ -2309,11 +2309,11 @@
    "title": "agent-memory-leaderboard/leaderboard"
   },
   "https://huggingface.co/sentinel7/h3": {
-   "date": "2026-11-20",
+   "date": "2026-11-27",
    "title": "Sentinel7/h3"
   },
   "title:sentinel7/h3": {
-   "date": "2026-11-20",
+   "date": "2026-11-27",
    "title": "Sentinel7/h3"
   },
   "https://www.v2ex.com/t/1258512": {
@@ -4307,6 +4307,166 @@
   "title:从零手搓rag：用elasticsearch存储与检索向量": {
    "date": "2026-11-26",
    "title": "从零手搓 RAG：用 Elasticsearch 存储与检索向量"
+  },
+  "https://www.v2ex.com/t/1260241": {
+   "date": "2026-11-27",
+   "title": "有人从 codex 弃坑转到 Antigravity 的没"
+  },
+  "title:有人从codex弃坑转到antigravity的没": {
+   "date": "2026-11-27",
+   "title": "有人从 codex 弃坑转到 Antigravity 的没"
+  },
+  "https://huggingface.co/orcarouter/inkling-2-mini-abliterated-gguf": {
+   "date": "2026-11-27",
+   "title": "orcarouter/Inkling-2-Mini-abliterated-GGUF"
+  },
+  "title:orcarouter/inkling-2-mini-abliterated-gguf": {
+   "date": "2026-11-27",
+   "title": "orcarouter/Inkling-2-Mini-abliterated-GGUF"
+  },
+  "https://www.v2ex.com/t/1260212": {
+   "date": "2026-11-27",
+   "title": "周五好，大家周末打算干啥"
+  },
+  "title:周五好，大家周末打算干啥": {
+   "date": "2026-11-27",
+   "title": "周五好，大家周末打算干啥"
+  },
+  "https://www.v2ex.com/t/1260196": {
+   "date": "2026-11-27",
+   "title": "网传 Hysteria 的多名代码贡献者已经被抓"
+  },
+  "title:网传hysteria的多名代码贡献者已经被抓": {
+   "date": "2026-11-27",
+   "title": "网传 Hysteria 的多名代码贡献者已经被抓"
+  },
+  "https://www.v2ex.com/t/1260233": {
+   "date": "2026-11-27",
+   "title": "其他模型真的好用，我又何必折腾 Claude 呢"
+  },
+  "title:其他模型真的好用，我又何必折腾claude呢": {
+   "date": "2026-11-27",
+   "title": "其他模型真的好用，我又何必折腾 Claude 呢"
+  },
+  "https://www.v2ex.com/t/1260279": {
+   "date": "2026-11-27",
+   "title": "求推荐: 怎么解决家庭超轻量的看电影/动画片需求"
+  },
+  "title:求推荐:怎么解决家庭超轻量的看电影/动画片需求": {
+   "date": "2026-11-27",
+   "title": "求推荐: 怎么解决家庭超轻量的看电影/动画片需求"
+  },
+  "https://huggingface.co/spaces/mrfakename/voice-isolator": {
+   "date": "2026-11-27",
+   "title": "mrfakename/voice-isolator"
+  },
+  "title:mrfakename/voice-isolator": {
+   "date": "2026-11-27",
+   "title": "mrfakename/voice-isolator"
+  },
+  "https://www.v2ex.com/t/1260114": {
+   "date": "2026-11-27",
+   "title": "感觉网易 uu 也可以下课了..."
+  },
+  "title:感觉网易uu也可以下课了...": {
+   "date": "2026-11-27",
+   "title": "感觉网易 uu 也可以下课了..."
+  },
+  "https://www.v2ex.com/t/1260187": {
+   "date": "2026-11-27",
+   "title": "最近 Antigravity 重置太频繁了，于是我上线了一个 Agy Reset 重置信号监测站，让你不错过每一次重置，且本贴随楼抽 50 位评论者每位赠送 50$V2EX"
+  },
+  "title:最近antigravity重置太频繁了，于是我上线了一个agyreset重置信号监测站，让你不错过每一次重置，且本贴随楼抽50位评论者每位赠送50$v2ex": {
+   "date": "2026-11-27",
+   "title": "最近 Antigravity 重置太频繁了，于是我上线了一个 Agy Reset 重置信号监测站，让你不错过每一次重置，且本贴随楼抽 50 位评论者每位赠送 50$V2EX"
+  },
+  "https://www.v2ex.com/t/1260208": {
+   "date": "2026-11-27",
+   "title": "2-3k 可以买到比较可以的相机吗"
+  },
+  "title:2-3k可以买到比较可以的相机吗": {
+   "date": "2026-11-27",
+   "title": "2-3k 可以买到比较可以的相机吗"
+  },
+  "https://juejin.cn/post/7712561672912896027": {
+   "date": "2026-11-27",
+   "title": "🧠2026主流知识库技术对比：RAG、MD+grep、LLM Wiki优劣与落地场景"
+  },
+  "title:🧠2026主流知识库技术对比：rag、md+grep、llmwiki优劣与落地场景": {
+   "date": "2026-11-27",
+   "title": "🧠2026主流知识库技术对比：RAG、MD+grep、LLM Wiki优劣与落地场景"
+  },
+  "https://juejin.cn/post/7711989201411817498": {
+   "date": "2026-11-27",
+   "title": "YouTube 是如何保存巨量视频文件的？"
+  },
+  "title:youtube是如何保存巨量视频文件的？": {
+   "date": "2026-11-27",
+   "title": "YouTube 是如何保存巨量视频文件的？"
+  },
+  "https://juejin.cn/post/7712008429045547042": {
+   "date": "2026-11-27",
+   "title": "🔥🔥Agent Prompt 越写越多：怎么改，才不伤旧功能？"
+  },
+  "title:🔥🔥agentprompt越写越多：怎么改，才不伤旧功能？": {
+   "date": "2026-11-27",
+   "title": "🔥🔥Agent Prompt 越写越多：怎么改，才不伤旧功能？"
+  },
+  "https://juejin.cn/post/7711659559337394176": {
+   "date": "2026-11-27",
+   "title": "OpenAI 史上最差的模型？Astra 6.2"
+  },
+  "title:openai史上最差的模型？astra6.2": {
+   "date": "2026-11-27",
+   "title": "OpenAI 史上最差的模型？Astra 6.2"
+  },
+  "https://juejin.cn/post/7711653983207964722": {
+   "date": "2026-11-27",
+   "title": "卡顿定位：从 UI 线程到 RenderThread"
+  },
+  "title:卡顿定位：从ui线程到renderthread": {
+   "date": "2026-11-27",
+   "title": "卡顿定位：从 UI 线程到 RenderThread"
+  },
+  "https://juejin.cn/post/7712321591589503010": {
+   "date": "2026-11-27",
+   "title": "为了收第一笔钱，我终于打通OPC支付链路"
+  },
+  "title:为了收第一笔钱，我终于打通opc支付链路": {
+   "date": "2026-11-27",
+   "title": "为了收第一笔钱，我终于打通OPC支付链路"
+  },
+  "https://juejin.cn/post/7712321591590436898": {
+   "date": "2026-11-27",
+   "title": "从 Java 21 升到 25、Spring Boot 3 升 4：一次可复现的迁移踩坑实录"
+  },
+  "title:从java21升到25、springboot3升4：一次可复现的迁移踩坑实录": {
+   "date": "2026-11-27",
+   "title": "从 Java 21 升到 25、Spring Boot 3 升 4：一次可复现的迁移踩坑实录"
+  },
+  "https://juejin.cn/post/7712307777096007720": {
+   "date": "2026-11-27",
+   "title": "我写的 12 个 AI Skill，三个月后 8 个在吃空饷"
+  },
+  "title:我写的12个aiskill，三个月后8个在吃空饷": {
+   "date": "2026-11-27",
+   "title": "我写的 12 个 AI Skill，三个月后 8 个在吃空饷"
+  },
+  "https://juejin.cn/post/7712008429037010979": {
+   "date": "2026-11-27",
+   "title": "如何把一个 3D 场景做得更加真实"
+  },
+  "title:如何把一个3d场景做得更加真实": {
+   "date": "2026-11-27",
+   "title": "如何把一个 3D 场景做得更加真实"
+  },
+  "https://juejin.cn/post/7711653983206735922": {
+   "date": "2026-11-27",
+   "title": "不会写代码，也能做微信小程序：WorkBuddy 上手教程"
+  },
+  "title:不会写代码，也能做微信小程序：workbuddy上手教程": {
+   "date": "2026-11-27",
+   "title": "不会写代码，也能做微信小程序：WorkBuddy 上手教程"
   }
  }
 }
